@@ -1,0 +1,10 @@
+docs/
+logs/
+plugins/
+config/
+*.pyc
+__pycache__/
+.env
+*.egg-info/
+.claude/
+CLAUDE.md
