@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,cost,sku,weight_kg,stock_quantity,supplier_id,created_date
+1,Upgradable exuding knowledgebase,Clothing,378.58,240.55,XBI-82233,23.31,499,124,2025-09-08
+2,Advanced cohesive array,Health & Beauty,479.44,305.43,NST-96580,12.14,211,500,2025-06-21
+3,Seamless system-worthy interface,Books,256.75,110.47,GFY-31915,0.93,179,760,2026-02-20
+4,Self-enabling secondary data-warehouse,Books,481.96,236.3,PGB-63240,12.31,383,243,2025-02-08
+5,Persevering bottom-line workforce,Toys,37.49,13.75,CVD-05322,6.14,457,417,2025-08-29
+6,Sharable background parallelism,Food & Beverage,148.05,65.34,BLH-57489,17.34,437,659,2024-12-18
+7,De-engineered leadingedge instruction set,Toys,402.37,130.87,CAR-04618,9.71,172,589,2026-01-02
+8,Secured value-added application,Health & Beauty,190.9,99.63,OGT-25919,20.64,168,620,2024-09-12
+9,Ameliorated high-level customer loyalty,Books,173.29,74.34,BJB-67849,4.09,203,14,2025-12-31
+10,Multi-layered value-added projection,Office Supplies,311.42,106.57,CXC-69954,3.0,119,167,2024-09-03
+11,Self-enabling logistical emulation,Health & Beauty,243.02,147.62,RWZ-20099,4.05,469,716,2026-02-04
+12,Streamlined national capability,Office Supplies,21.85,13.64,VBO-39999,13.4,494,322,2026-01-15
+13,Reverse-engineered intangible standardization,Sports,56.32,34.76,IXI-38929,8.66,180,65,2024-10-31
+14,Extended methodical circuit,Toys,487.24,317.41,ZVU-44270,24.43,240,122,2025-11-04
+15,Intuitive cohesive software,Books,165.84,86.23,SZO-02593,15.86,203,863,2025-12-31
+16,Integrated bandwidth-monitored hierarchy,Clothing,186.74,59.32,PJP-32919,16.93,46,573,2025-11-29
+17,Progressive asynchronous utilization,Books,305.72,204.75,VZH-24477,7.51,409,849,2024-04-18
+18,Upgradable multi-state toolset,Sports,174.17,71.31,UUA-88800,23.73,229,366,2024-05-26
+19,Synergistic attitude-oriented encryption,Home & Garden,493.2,341.14,LFI-34064,0.63,222,253,2025-07-30
+20,Public-key dedicated workforce,Clothing,36.09,18.5,ZEM-49981,14.41,248,739,2025-02-14
+21,Synergistic asymmetric collaboration,Books,472.49,145.97,WZF-56861,22.74,191,961,2026-01-09
+22,Quality-focused motivating collaboration,Sports,401.98,275.59,GVC-00867,4.88,12,250,2026-01-22
+23,Integrated asynchronous open system,Electronics,458.52,218.55,SUF-03364,10.52,235,215,2025-03-15
+24,Integrated neutral archive,Clothing,438.46,155.22,IZI-38528,11.96,331,230,2025-11-21
+25,Pre-emptive demand-driven standardization,Automotive,279.33,124.98,ZJB-62576,11.44,58,516,2024-06-19
+26,Object-based 3rdgeneration support,Food & Beverage,371.94,135.09,HZW-55235,8.83,354,171,2024-09-22
+27,Operative multi-state concept,Home & Garden,213.89,136.18,PVE-85550,19.91,112,782,2025-01-05
+28,Persevering next generation help-desk,Clothing,269.04,103.84,POB-88985,6.06,352,486,2024-06-27
+29,Fully-configurable scalable portal,Food & Beverage,353.48,116.47,QRJ-19669,3.76,334,755,2024-10-22
+30,Cross-platform system-worthy website,Books,474.32,207.16,QMJ-90047,8.31,372,526,2024-03-03
+31,Decentralized optimizing alliance,Clothing,193.32,73.31,WBI-35915,19.66,104,807,2024-06-14
+32,Configurable system-worthy moratorium,Toys,77.59,47.75,AHL-99799,9.84,90,491,2024-07-13
+33,Horizontal zero-defect help-desk,Health & Beauty,407.05,133.28,PRS-23463,16.95,115,615,2024-11-28
+34,Multi-tiered real-time instruction set,Sports,386.22,147.4,TAE-88887,17.52,273,483,2024-09-27
+35,Exclusive full-range policy,Clothing,45.17,18.21,FXG-38214,14.29,409,905,2025-06-16
+36,Progressive tangible definition,Health & Beauty,194.66,89.85,QLQ-12740,17.15,485,111,2024-04-07
+37,Configurable national access,Electronics,454.54,222.28,ZYU-14602,22.49,314,929,2025-01-06
+38,Customer-focused tertiary budgetary management,Office Supplies,324.44,141.25,NIG-98543,21.79,419,931,2025-10-23
+39,Re-contextualized reciprocal structure,Toys,61.32,38.46,QRV-80012,4.98,289,996,2025-01-14
+40,Synergized context-sensitive open architecture,Automotive,336.21,101.12,JAO-29912,0.2,205,513,2026-02-13
+41,Quality-focused 6thgeneration algorithm,Health & Beauty,258.62,171.92,TCN-18393,11.99,486,290,2025-07-24
+42,Polarized web-enabled forecast,Food & Beverage,408.69,279.9,DCF-45985,2.9,109,739,2025-09-21
+43,Total solution-oriented alliance,Toys,225.22,149.28,QAU-39498,8.09,355,603,2025-11-28
+44,Visionary 24/7 monitoring,Clothing,261.79,180.85,PEK-08056,22.5,96,231,2024-08-14
+45,Adaptive neutral time-frame,Electronics,498.92,318.19,AYM-51291,14.37,118,210,2024-05-05
+46,Organized clear-thinking framework,Health & Beauty,447.52,175.82,WJX-46725,8.52,454,206,2026-01-26
+47,Reactive user-facing artificial intelligence,Automotive,462.55,167.14,PMM-07209,10.66,52,982,2025-11-12
+48,Self-enabling bottom-line parallelism,Clothing,98.7,59.73,SWG-54557,18.2,485,602,2025-11-12
+49,User-friendly high-level function,Clothing,122.01,66.57,ULE-69920,6.25,275,124,2025-01-28
+50,Implemented 6thgeneration application,Books,188.28,67.97,WBX-51448,11.49,410,202,2024-12-28
+51,Monitored actuating open architecture,Automotive,299.19,186.27,BGV-24428,14.71,120,502,2025-11-25
+52,Cross-platform empowering task-force,Sports,77.14,24.52,MBN-96024,2.37,57,819,2024-11-29
+53,Pre-emptive tangible analyzer,Food & Beverage,496.78,182.09,THE-31328,11.35,167,176,2024-10-20
+54,Advanced analyzing groupware,Food & Beverage,479.94,216.2,ALV-39981,22.74,37,514,2025-07-17
+55,Persistent systemic function,Health & Beauty,123.86,41.47,LUU-27812,3.96,356,13,2024-10-08
+56,Fundamental real-time support,Electronics,173.92,114.46,EWO-00687,14.82,68,164,2024-09-28
+57,Re-engineered regional access,Automotive,202.98,97.64,VIP-42419,22.31,398,165,2025-12-21
+58,De-engineered content-based productivity,Toys,91.47,41.34,FXS-44104,21.65,75,998,2025-01-02
+59,Reactive impactful software,Office Supplies,252.75,112.35,YUU-46787,13.01,74,964,2026-02-16
+60,Sharable bifurcated artificial intelligence,Health & Beauty,455.88,168.73,LJH-85591,3.06,474,857,2025-10-19
+61,Seamless content-based open architecture,Automotive,208.34,111.05,QRL-66031,5.02,496,375,2025-04-21
+62,Multi-tiered empowering productivity,Electronics,62.74,31.02,NDJ-21080,4.38,15,148,2024-10-25
+63,Triple-buffered fault-tolerant open architecture,Home & Garden,27.06,14.82,UOJ-41873,14.59,304,764,2025-06-14
+64,Implemented local capacity,Food & Beverage,276.84,164.76,QRL-23663,19.71,469,564,2024-08-05
+65,Synchronized empowering website,Home & Garden,331.01,111.68,ZGU-05453,13.94,36,263,2025-01-02
+66,Enterprise-wide value-added methodology,Sports,240.63,133.1,WGT-70978,3.25,424,362,2025-09-16
+67,Switchable eco-centric Internet solution,Home & Garden,67.72,37.49,PLA-62589,15.75,303,440,2025-09-19
+68,Adaptive multi-state infrastructure,Food & Beverage,425.96,160.68,DRH-17485,4.79,220,318,2025-04-20
+69,Multi-tiered multimedia open system,Clothing,313.5,199.91,DNB-55077,9.13,323,837,2026-01-06
+70,Re-contextualized heuristic artificial intelligence,Clothing,169.78,79.33,SDE-96488,14.31,294,7,2026-01-10
+71,Secured scalable complexity,Office Supplies,330.11,135.87,OTW-43709,14.85,254,452,2025-12-29
+72,De-engineered exuding firmware,Health & Beauty,129.11,74.22,QQK-34326,18.24,277,748,2024-10-08
+73,Right-sized intangible encoding,Food & Beverage,456.65,141.39,AKP-19567,24.15,287,295,2024-03-18
+74,Operative upward-trending protocol,Office Supplies,430.77,247.18,IEQ-54654,10.02,437,937,2024-03-26
+75,Open-source 6thgeneration contingency,Home & Garden,199.2,131.62,HES-98153,14.34,40,51,2025-06-25
+76,Profound multi-state pricing structure,Health & Beauty,19.95,7.01,UFN-21233,19.74,97,608,2025-05-17
+77,Focused local orchestration,Toys,67.86,43.95,TJR-21604,24.67,493,114,2025-02-07
+78,Customer-focused incremental definition,Health & Beauty,363.19,177.85,XQU-12105,2.51,140,411,2024-07-27
+79,Right-sized bandwidth-monitored product,Clothing,429.72,257.9,NTM-09296,16.55,457,109,2025-07-22
+80,Polarized upward-trending instruction set,Food & Beverage,406.5,248.73,LXY-73018,17.79,466,763,2025-05-09
+81,Synchronized systemic moderator,Food & Beverage,27.04,10.27,VOT-65417,6.12,213,339,2025-04-17
+82,Polarized client-driven firmware,Health & Beauty,165.9,112.94,HSL-32085,7.17,265,918,2024-08-16
+83,Synchronized content-based approach,Automotive,471.99,246.18,ACU-21938,11.35,303,384,2025-07-30
+84,Cloned cohesive portal,Electronics,423.03,168.9,KMX-96375,5.44,380,272,2025-11-01
+85,Programmable secondary access,Automotive,439.71,265.14,HLS-55025,16.42,176,925,2025-10-15
+86,Optional multi-tasking ability,Food & Beverage,369.47,251.79,QEL-06878,15.56,69,61,2025-08-20
+87,Diverse coherent strategy,Sports,200.73,137.33,TED-69216,11.09,174,294,2026-01-10
+88,Focused explicit throughput,Sports,89.61,60.58,WHW-20530,15.33,202,157,2024-03-29
+89,Universal regional ability,Books,416.82,263.07,MED-87756,10.41,328,506,2025-03-26
+90,Implemented non-volatile concept,Automotive,220.78,86.22,TJQ-13050,22.9,220,791,2024-11-10
+91,Future-proofed scalable array,Sports,130.9,78.08,YAV-85692,0.64,152,356,2025-09-12
+92,Function-based foreground flexibility,Food & Beverage,321.71,148.51,REU-77112,12.45,15,922,2025-01-17
+93,Seamless next generation Graphical User Interface,Office Supplies,331.74,124.39,MOT-56335,1.74,171,511,2024-10-24
+94,Visionary asynchronous conglomeration,Home & Garden,278.88,132.7,SMJ-19876,24.74,181,812,2024-03-15
+95,Decentralized clear-thinking collaboration,Home & Garden,327.68,191.1,FQC-81406,22.88,242,236,2024-06-10
+96,Seamless methodical infrastructure,Home & Garden,205.82,118.41,UQK-75871,3.85,18,647,2025-03-06
+97,Ameliorated needs-based hub,Food & Beverage,327.05,163.6,FJR-55588,18.55,467,795,2024-06-04
+98,Synchronized optimizing alliance,Books,94.93,60.73,WEO-46770,1.82,314,893,2024-07-06
+99,Team-oriented multi-tasking secured line,Health & Beauty,350.68,151.79,GLC-63684,20.3,204,5,2025-08-25
+100,Intuitive 4thgeneration function,Books,353.49,241.01,NTB-95439,2.37,60,321,2024-11-01
+101,Phased high-level extranet,Clothing,479.43,173.4,ODP-42612,16.58,40,656,2025-06-26
+102,Seamless zero-defect Graphic Interface,Home & Garden,153.68,87.16,HZQ-16196,9.61,329,764,2024-07-10
+103,Optimized even-keeled hierarchy,Automotive,167.85,111.33,TSD-28246,0.71,341,352,2024-11-13
+104,Open-source fresh-thinking architecture,Automotive,308.33,105.0,YPM-86510,24.63,345,653,2025-01-19
+105,Grass-roots value-added encryption,Office Supplies,95.23,38.05,LNV-86978,20.59,187,383,2024-05-22
+106,Open-source mission-critical secured line,Toys,124.81,70.03,JHE-65175,23.07,473,873,2025-12-18
+107,Open-source zero-defect core,Health & Beauty,24.55,7.5,NDC-25216,3.08,329,187,2024-10-07
+108,Organic cohesive portal,Electronics,286.9,186.01,CYN-13824,20.44,331,780,2026-01-20
+109,Decentralized needs-based capability,Electronics,112.06,55.1,ADT-32602,0.14,6,859,2025-10-21
+110,Quality-focused modular intranet,Books,271.51,186.46,FPH-44728,12.7,150,773,2025-06-01
+111,Right-sized user-facing database,Books,445.95,209.37,BGX-06588,9.86,231,951,2024-12-02
+112,Upgradable exuding Internet solution,Food & Beverage,442.42,163.84,GRN-52393,10.31,117,326,2024-09-09
+113,Persistent executive focus group,Electronics,223.48,119.93,VOA-03981,5.34,286,702,2024-07-05
+114,Extended systematic customer loyalty,Electronics,229.44,93.82,DTC-45157,17.78,133,677,2025-07-10
+115,Centralized uniform Internet solution,Health & Beauty,433.83,262.17,XRP-27326,18.01,305,473,2024-11-13
+116,Reverse-engineered scalable pricing structure,Automotive,350.56,203.54,NPE-16115,2.69,430,229,2026-01-24
+117,Multi-channeled needs-based project,Office Supplies,449.15,303.93,NFK-05224,0.94,6,751,2024-05-08
+118,Open-source methodical infrastructure,Sports,324.75,189.84,LJW-71453,20.97,305,840,2025-05-06
+119,Focused executive capacity,Office Supplies,495.87,179.63,BLK-42867,21.33,52,420,2025-02-25
+120,Public-key client-server orchestration,Toys,250.44,138.82,RGP-56149,20.35,357,310,2025-03-19
+121,Vision-oriented local benchmark,Sports,430.62,242.52,VMZ-72809,18.15,154,710,2025-08-22
+122,Phased user-facing matrices,Clothing,151.47,73.11,CLM-71422,14.76,180,255,2025-03-04
+123,Configurable logistical open architecture,Sports,416.72,189.51,FBL-45905,17.16,255,58,2025-07-09
+124,Centralized non-volatile project,Food & Beverage,200.67,130.62,VUV-19724,22.06,432,63,2024-10-04
+125,Cross-group heuristic portal,Clothing,273.89,108.55,OII-51032,16.94,125,879,2025-04-23
+126,Grass-roots modular challenge,Food & Beverage,110.2,58.33,SZX-42150,13.1,25,235,2025-12-03
+127,Monitored grid-enabled hardware,Automotive,161.48,107.17,BLD-18307,11.43,397,402,2025-05-26
+128,Diverse radical functionalities,Toys,104.56,68.6,VBI-64856,5.05,17,949,2025-12-22
+129,Multi-layered scalable workforce,Electronics,182.28,57.21,REZ-06722,22.25,40,167,2026-01-01
+130,Distributed holistic throughput,Food & Beverage,497.05,156.75,ZGZ-05842,17.41,198,159,2024-12-04
+131,Enterprise-wide multi-tasking collaboration,Automotive,89.77,45.15,XXC-70857,9.02,3,934,2024-09-16
+132,Re-engineered dynamic attitude,Electronics,41.89,25.16,BPT-71667,6.41,349,317,2025-02-26
+133,Pre-emptive systematic project,Health & Beauty,423.31,134.76,TGK-57531,15.02,30,993,2024-09-30
+134,Universal multimedia artificial intelligence,Health & Beauty,69.17,24.91,WHA-69804,21.55,315,419,2025-09-14
+135,User-friendly reciprocal leverage,Office Supplies,351.98,106.86,EGA-46912,14.84,99,905,2024-10-22
+136,Re-engineered didactic adapter,Toys,192.41,62.75,JLB-99332,6.65,131,850,2025-06-16
+137,Fundamental value-added structure,Automotive,152.54,95.0,BLA-13751,3.14,130,976,2025-09-11
+138,User-centric radical system engine,Automotive,152.11,100.84,GBX-47497,2.38,494,103,2025-10-28
+139,Reverse-engineered zero administration installation,Food & Beverage,94.18,34.59,WQC-56911,4.32,263,402,2025-04-26
+140,Optional bi-directional middleware,Home & Garden,314.6,101.13,CCN-61653,9.61,150,196,2025-07-28
+141,Multi-tiered value-added info-mediaries,Food & Beverage,118.61,74.49,FWL-33723,24.96,104,625,2025-05-03
+142,Future-proofed solution-oriented Graphical User Interface,Sports,472.32,233.79,HYU-32603,16.29,486,316,2025-03-22
+143,Persevering uniform application,Home & Garden,41.57,21.52,TFK-81541,1.74,496,41,2026-02-12
+144,Networked demand-driven attitude,Home & Garden,328.64,172.73,ICG-73481,23.5,234,806,2025-06-23
+145,Persevering non-volatile firmware,Books,134.08,61.46,ABR-64208,8.95,88,578,2025-07-08
+146,Open-architected intermediate methodology,Office Supplies,330.4,150.5,IPH-00696,17.79,144,931,2024-10-28
+147,Innovative discrete toolset,Office Supplies,218.52,139.94,WEV-98197,18.6,98,964,2025-08-10
+148,Networked even-keeled artificial intelligence,Toys,372.73,114.49,AQZ-15188,4.63,196,469,2025-03-18
+149,Self-enabling analyzing structure,Sports,268.65,93.69,GYN-82733,15.84,432,38,2025-03-08
+150,Open-source motivating challenge,Food & Beverage,360.19,178.19,QTL-66504,15.33,282,764,2024-10-30
+151,Inverse 6thgeneration open architecture,Office Supplies,190.25,108.88,XIW-51344,16.25,410,167,2024-08-11
+152,Proactive dedicated groupware,Health & Beauty,231.36,119.31,KUP-76749,12.68,306,551,2025-10-19
+153,Balanced didactic flexibility,Food & Beverage,359.21,211.23,QPE-37088,22.24,85,993,2026-02-01
+154,Stand-alone maximized middleware,Home & Garden,38.71,19.82,IWU-01421,18.03,267,749,2024-09-10
+155,Virtual demand-driven support,Clothing,161.57,96.71,ZUJ-94871,22.21,457,431,2025-12-07
+156,Horizontal clear-thinking structure,Food & Beverage,102.26,64.95,WBI-76347,7.1,189,10,2025-08-23
+157,Multi-channeled foreground array,Health & Beauty,6.51,2.79,UYE-77563,21.19,381,111,2025-12-30
+158,Cross-group didactic open system,Electronics,74.12,35.03,NQV-53259,23.29,270,512,2025-11-22
+159,Automated multi-state adapter,Food & Beverage,318.7,97.29,CEA-53864,1.52,89,867,2025-04-15
+160,Exclusive logistical installation,Toys,97.88,57.6,RXJ-31296,21.59,481,67,2024-09-19
+161,Down-sized even-keeled solution,Toys,95.4,50.76,QWM-32506,3.4,336,839,2024-10-04
+162,Up-sized zero tolerance parallelism,Toys,108.0,73.13,FAN-23922,22.84,272,265,2025-05-01
+163,Reverse-engineered background software,Sports,209.97,95.31,OQD-27597,3.49,394,208,2024-08-21
+164,Configurable uniform throughput,Sports,448.8,142.63,FWJ-23660,22.2,84,169,2025-07-05
+165,Visionary system-worthy array,Clothing,438.32,182.79,YNN-18530,5.96,416,226,2024-10-16
+166,Ergonomic holistic paradigm,Clothing,421.4,209.02,PAT-39969,7.61,279,432,2024-06-16
+167,Expanded eco-centric extranet,Electronics,274.5,179.85,LKK-34126,16.82,31,227,2024-11-13
+168,Balanced global conglomeration,Sports,120.59,82.03,IQZ-87071,15.5,425,352,2025-08-05
+169,Cross-group empowering portal,Books,79.65,40.41,LST-54307,5.24,271,942,2025-06-09
+170,Business-focused upward-trending open system,Clothing,435.95,144.67,IPI-62776,6.72,252,249,2025-01-04
+171,Decentralized asynchronous parallelism,Clothing,13.15,5.3,OZA-09587,21.56,61,106,2024-07-27
+172,Team-oriented local support,Food & Beverage,60.35,29.47,EFX-52430,1.35,435,855,2025-04-22
+173,Profound systematic paradigm,Toys,312.8,202.11,MLM-06841,10.21,208,435,2024-07-08
+174,Multi-layered foreground interface,Clothing,175.43,61.52,YZE-29612,14.26,99,715,2025-09-10
+175,Synergized bifurcated time-frame,Clothing,213.43,145.61,BUB-89987,21.3,367,420,2025-08-30
+176,Public-key context-sensitive functionalities,Food & Beverage,441.94,262.54,SLL-07298,11.33,32,371,2025-06-18
+177,Multi-layered dynamic neural-net,Toys,93.42,64.73,UQF-47789,4.97,253,12,2024-05-20
+178,Diverse object-oriented encoding,Health & Beauty,249.01,134.9,YHX-89634,18.2,81,912,2025-05-04
+179,Exclusive mobile customer loyalty,Automotive,239.37,115.51,ZBN-57108,14.23,337,260,2024-09-17
+180,Triple-buffered upward-trending moratorium,Books,332.26,135.25,DAZ-26631,17.69,389,579,2025-02-02
+181,Realigned foreground Internet solution,Automotive,421.8,177.63,MPG-27196,3.43,337,129,2024-05-20
+182,Team-oriented non-volatile Graphical User Interface,Home & Garden,56.44,27.85,SLF-08907,3.95,40,582,2025-02-25
+183,Synergized asymmetric circuit,Electronics,45.96,25.36,QRH-04280,14.1,214,350,2024-09-27
+184,Multi-lateral well-modulated hierarchy,Health & Beauty,452.93,255.86,RQH-66520,3.38,103,847,2024-10-28
+185,Stand-alone impactful analyzer,Home & Garden,423.12,262.76,CQX-65242,11.04,465,597,2024-06-28
+186,Balanced explicit secured line,Health & Beauty,257.29,112.05,PQQ-67904,23.78,274,437,2025-10-17
+187,Phased client-driven matrix,Automotive,113.16,50.7,QBL-40312,6.09,200,659,2024-05-18
+188,Proactive contextually-based toolset,Health & Beauty,323.58,141.22,AUL-19532,4.67,433,215,2026-01-08
+189,Centralized actuating service-desk,Home & Garden,356.25,220.26,GAT-28684,23.47,174,230,2025-10-04
+190,Balanced discrete toolset,Automotive,143.45,59.57,DJY-16051,2.75,481,497,2025-06-27
+191,Exclusive composite hardware,Home & Garden,288.73,103.79,SSL-09289,8.73,216,323,2024-05-06
+192,Sharable fault-tolerant migration,Home & Garden,7.55,4.96,FDQ-37158,14.82,370,586,2024-03-01
+193,Visionary well-modulated superstructure,Electronics,410.53,177.63,QWI-67099,5.76,486,659,2024-07-08
+194,Configurable secondary throughput,Automotive,181.66,121.07,CGG-40571,5.28,201,303,2024-10-17
+195,Public-key non-volatile project,Automotive,9.8,3.38,JYK-77291,10.99,25,46,2024-06-23
+196,Compatible bottom-line methodology,Books,340.08,233.87,LRR-86028,9.14,344,317,2024-09-22
+197,Phased multimedia policy,Food & Beverage,462.92,255.55,OJE-91898,2.32,389,470,2025-12-30
+198,Total dynamic benchmark,Clothing,155.45,104.23,RCI-65172,19.93,268,239,2024-07-22
+199,Up-sized attitude-oriented approach,Automotive,59.28,32.36,DCC-72778,21.51,14,968,2025-02-04
+200,Focused intangible process improvement,Clothing,60.34,27.85,IFV-67533,16.32,161,135,2024-07-23
+201,Ameliorated coherent encoding,Toys,109.79,50.14,LED-43464,12.3,131,859,2025-09-21
+202,Phased system-worthy knowledge user,Toys,437.46,201.5,HDS-04399,5.28,181,445,2025-02-01
+203,Sharable stable data-warehouse,Food & Beverage,91.24,54.46,BZI-84608,3.37,217,988,2025-02-04
+204,Total didactic circuit,Health & Beauty,419.88,159.85,KBM-24066,20.48,424,635,2025-02-09
+205,Synergistic bandwidth-monitored knowledgebase,Sports,254.95,151.05,LYT-42293,21.86,155,988,2025-06-18
+206,Re-contextualized national paradigm,Electronics,292.57,168.35,MKI-99190,11.4,305,160,2025-01-23
+207,Front-line dedicated Internet solution,Office Supplies,382.62,161.47,JAF-27303,5.63,12,322,2025-07-21
+208,Face-to-face empowering pricing structure,Health & Beauty,53.69,33.39,DYW-87996,23.42,230,618,2025-02-20
+209,Cross-group didactic portal,Health & Beauty,122.68,63.11,SYI-55519,17.46,201,27,2025-11-25
+210,Sharable actuating solution,Sports,222.6,94.39,EYH-69084,1.96,0,469,2024-09-10
+211,Intuitive executive model,Health & Beauty,435.75,234.29,JFI-67287,2.35,321,118,2024-06-11
+212,Distributed mobile application,Clothing,40.55,12.45,MKP-37202,5.08,476,346,2025-04-25
+213,Polarized multimedia matrices,Office Supplies,231.74,139.58,SNC-24849,21.94,233,926,2025-06-11
+214,Expanded neutral encoding,Books,430.29,294.92,LVP-43025,18.74,490,794,2024-08-27
+215,Up-sized optimal archive,Toys,438.83,295.77,FOR-70607,9.87,179,499,2024-04-12
+216,Monitored intangible frame,Books,267.46,128.37,SRQ-93337,4.32,124,312,2025-02-13
+217,Quality-focused leadingedge attitude,Clothing,492.72,336.84,KNF-12088,20.85,86,900,2025-04-27
+218,Operative fresh-thinking extranet,Food & Beverage,464.53,286.33,VYB-65611,9.33,405,211,2024-11-23
+219,Balanced dynamic product,Health & Beauty,197.26,59.54,XNI-55151,1.68,124,234,2025-01-19
+220,Multi-tiered client-server projection,Sports,480.99,173.57,NED-14395,1.09,180,594,2024-10-10
+221,Assimilated dynamic utilization,Food & Beverage,403.97,126.55,SFK-34730,9.54,8,16,2024-12-10
+222,Balanced radical interface,Books,139.09,61.87,TVW-06566,17.86,182,151,2024-07-12
+223,Enterprise-wide scalable hierarchy,Clothing,250.03,109.77,NJC-75468,6.49,173,311,2025-10-28
+224,Total mobile policy,Automotive,337.59,229.68,GIF-73422,22.19,103,998,2025-08-24
+225,Optional tertiary model,Clothing,422.28,187.68,MVO-53500,10.26,371,42,2024-07-29
+226,Adaptive eco-centric help-desk,Toys,269.06,116.14,QZV-48520,21.79,19,948,2024-05-30
+227,Focused logistical methodology,Clothing,345.97,197.66,ADA-45112,16.41,251,993,2024-05-22
+228,Multi-tiered 6thgeneration toolset,Toys,27.18,15.13,VIY-01088,24.16,231,668,2024-08-15
+229,Up-sized logistical algorithm,Clothing,218.78,100.69,XHB-91573,5.15,203,103,2024-06-06
+230,Ergonomic mission-critical software,Office Supplies,340.86,169.15,GCK-75059,9.44,161,88,2024-08-01
+231,Organic regional secured line,Health & Beauty,438.6,196.28,TCV-73738,20.71,102,595,2026-01-02
+232,Innovative fault-tolerant firmware,Sports,426.8,222.76,FUA-67226,10.58,140,901,2024-09-13
+233,Expanded reciprocal forecast,Electronics,241.06,131.71,IRZ-48735,8.6,135,88,2025-10-05
+234,Business-focused client-server capacity,Office Supplies,255.54,127.92,FDJ-49627,13.85,397,879,2025-05-11
+235,Object-based asynchronous groupware,Toys,121.89,56.39,GXG-63978,15.81,455,392,2024-08-14
+236,Decentralized 24hour info-mediaries,Toys,330.21,175.33,AKH-39160,20.51,162,967,2025-08-24
+237,Cloned leadingedge software,Books,308.71,136.0,FWN-89354,23.7,390,404,2025-10-16
+238,Inverse stable time-frame,Office Supplies,231.71,117.99,UBE-83365,23.45,203,214,2024-12-14
+239,Robust contextually-based knowledge user,Food & Beverage,354.45,191.22,MJU-93378,1.74,223,144,2026-02-02
+240,Distributed background infrastructure,Office Supplies,351.06,212.06,EUT-79703,4.68,452,543,2025-07-19
+241,Team-oriented local moratorium,Home & Garden,64.29,38.38,HWK-62396,10.53,340,103,2024-03-11
+242,Focused human-resource hierarchy,Sports,130.01,54.66,ABU-24966,4.83,432,533,2024-08-24
+243,Vision-oriented asymmetric utilization,Sports,53.66,31.91,OUW-74909,18.48,65,687,2025-10-22
+244,Open-architected hybrid parallelism,Toys,168.5,93.26,CKO-62214,10.89,167,775,2024-04-20
+245,Front-line asymmetric attitude,Electronics,370.86,210.49,VVJ-94315,9.05,335,769,2025-12-08
+246,Inverse next generation migration,Clothing,344.22,192.83,PVU-35119,14.26,25,781,2024-05-08
+247,Organized eco-centric initiative,Health & Beauty,41.64,25.6,MWR-64728,1.43,439,873,2024-04-09
+248,Switchable heuristic implementation,Clothing,212.19,83.14,ATD-91422,17.51,478,304,2024-08-22
+249,Multi-tiered modular emulation,Sports,273.0,126.69,IGR-91165,12.53,127,83,2024-10-19
+250,Multi-layered scalable help-desk,Toys,132.92,69.42,GGH-86398,19.02,244,714,2024-04-22
+251,Polarized mobile hierarchy,Sports,315.57,133.16,EIZ-36888,7.09,439,153,2026-01-23
+252,Optional asymmetric model,Electronics,17.51,8.07,KFH-40425,4.47,204,3,2026-01-12
+253,Reduced zero administration architecture,Automotive,264.8,135.2,JGQ-54991,19.11,129,271,2025-03-01
+254,Future-proofed intermediate paradigm,Electronics,365.45,205.34,ZJC-71647,7.87,96,701,2025-10-09
+255,Upgradable needs-based collaboration,Toys,188.4,65.13,DZL-60068,19.88,181,989,2024-09-09
+256,Fundamental solution-oriented task-force,Office Supplies,266.04,92.99,SWP-84994,10.62,368,392,2024-12-02
+257,Future-proofed 5thgeneration model,Clothing,168.38,73.48,UXF-64034,20.6,25,363,2025-12-03
+258,Balanced needs-based alliance,Automotive,310.61,183.86,RDL-23076,18.58,414,977,2025-02-25
+259,Customizable clear-thinking extranet,Automotive,485.07,190.77,ENN-29084,5.75,215,500,2025-10-09
+260,Realigned asymmetric hierarchy,Automotive,473.75,238.53,KTK-11465,6.02,28,815,2025-06-22
+261,Customer-focused responsive moratorium,Sports,331.21,118.67,VBB-17632,23.64,480,821,2026-02-14
+262,Business-focused logistical product,Books,18.84,5.9,FUR-46004,3.32,458,980,2024-12-06
+263,Mandatory bifurcated help-desk,Home & Garden,104.91,34.76,QFY-53640,9.62,79,513,2025-04-17
+264,Virtual responsive data-warehouse,Electronics,63.13,29.68,OHD-36879,11.32,178,797,2025-08-10
+265,Total bi-directional access,Health & Beauty,312.79,147.53,MAY-83611,2.82,290,93,2025-05-11
+266,Synchronized 24/7 workforce,Office Supplies,299.3,205.99,JFW-77395,3.94,349,547,2025-09-03
+267,Front-line eco-centric capacity,Food & Beverage,111.79,42.78,MIS-43622,18.01,174,652,2025-05-31
+268,Grass-roots disintermediate data-warehouse,Home & Garden,443.42,238.82,QBT-47332,17.73,476,75,2025-07-28
+269,Cloned intermediate workforce,Sports,435.31,167.38,EKH-34942,24.91,222,149,2024-06-14
+270,Synergistic stable challenge,Health & Beauty,206.15,77.2,JXR-08043,23.74,272,429,2025-08-01
+271,Re-contextualized upward-trending artificial intelligence,Office Supplies,270.99,122.09,YTX-38864,22.65,376,717,2024-11-20
+272,Programmable 3rdgeneration Graphic Interface,Home & Garden,315.0,131.33,WUE-46677,13.6,439,492,2024-09-23
+273,Multi-lateral contextually-based extranet,Automotive,75.42,51.36,SIW-65893,13.68,12,857,2025-08-12
+274,Integrated foreground parallelism,Automotive,110.32,37.07,IEA-41541,23.15,255,423,2024-09-01
+275,Compatible homogeneous project,Clothing,419.7,184.94,EPI-19079,19.39,425,130,2025-03-01
+276,Front-line leadingedge intranet,Food & Beverage,67.91,38.89,PIZ-80201,21.63,219,879,2025-10-03
+277,Grass-roots bi-directional service-desk,Health & Beauty,141.55,90.08,YEO-21382,16.0,158,700,2025-03-15
+278,Horizontal human-resource budgetary management,Books,268.86,105.73,XOE-81697,7.7,155,112,2025-09-22
+279,Digitized 4thgeneration model,Clothing,29.26,19.82,ACA-60116,4.76,7,439,2026-01-14
+280,Centralized 24hour algorithm,Books,226.37,121.74,BLT-03804,0.19,190,988,2025-01-18
+281,Progressive web-enabled hierarchy,Clothing,451.99,249.24,SOT-23573,13.15,279,676,2024-08-15
+282,Proactive motivating array,Clothing,282.96,175.85,YZH-32575,12.77,397,320,2025-06-29
+283,Quality-focused zero-defect synergy,Electronics,249.48,141.13,EDP-88402,19.65,223,613,2025-07-15
+284,Universal fresh-thinking challenge,Clothing,396.61,251.31,TKB-29241,16.22,349,834,2024-09-13
+285,Assimilated discrete approach,Sports,293.75,132.51,VXX-95695,16.66,391,413,2026-02-06
+286,Robust attitude-oriented superstructure,Toys,6.7,3.72,ONY-10850,17.38,58,145,2025-03-02
+287,Enhanced zero-defect capability,Electronics,483.66,231.57,KZP-42990,4.86,387,991,2024-08-11
+288,Vision-oriented 5thgeneration matrix,Books,440.96,208.85,IQT-00615,16.68,62,989,2025-12-01
+289,Object-based solution-oriented website,Automotive,477.33,166.86,HSY-89423,12.79,308,983,2025-03-23
+290,Exclusive logistical projection,Office Supplies,8.68,3.31,LFH-68402,14.29,0,79,2025-01-26
+291,Devolved next generation process improvement,Food & Beverage,270.41,173.58,UCT-48687,22.82,31,306,2025-10-20
+292,Inverse contextually-based instruction set,Food & Beverage,379.51,115.38,ZHE-25587,18.66,300,603,2025-07-03
+293,Enhanced contextually-based help-desk,Health & Beauty,376.51,174.99,SLP-61921,23.73,323,495,2025-04-01
+294,Optional client-driven alliance,Books,383.92,119.49,KBS-07621,23.42,209,77,2025-03-27
+295,Polarized next generation superstructure,Books,275.33,147.71,RRQ-34716,4.66,460,643,2024-06-08
+296,Expanded human-resource application,Electronics,172.92,99.25,UGP-96794,21.09,452,872,2024-04-21
+297,Multi-channeled solution-oriented extranet,Toys,457.55,144.69,KGE-34686,16.26,205,208,2026-01-12
+298,Cross-group transitional core,Health & Beauty,98.0,51.31,NKJ-68973,4.65,330,938,2025-09-01
+299,Universal 5thgeneration framework,Toys,286.15,114.9,TKO-69405,7.86,156,425,2024-09-20
+300,Re-engineered asynchronous utilization,Office Supplies,176.29,84.55,LFT-16068,15.28,27,330,2025-07-24
+301,Optimized solution-oriented implementation,Sports,48.84,31.63,FTM-89439,0.57,114,695,2024-04-08
+302,Seamless discrete workforce,Sports,261.83,170.38,SDX-00003,1.12,411,652,2026-02-07
+303,Front-line didactic task-force,Home & Garden,61.38,30.22,ZWQ-06526,7.4,223,316,2024-05-09
+304,Distributed 3rdgeneration standardization,Toys,290.53,196.64,KMR-40577,20.3,434,985,2024-06-07
+305,Synergistic bandwidth-monitored emulation,Electronics,85.96,29.75,UGR-29548,5.09,442,875,2025-06-08
+306,Innovative eco-centric hub,Toys,158.64,99.82,UHC-53608,22.16,242,956,2024-06-22
+307,Public-key interactive protocol,Food & Beverage,372.79,115.8,AAA-71797,7.4,367,608,2024-09-28
+308,Cross-platform radical synergy,Sports,123.45,58.83,WCQ-25159,16.05,59,397,2026-02-09
+309,Decentralized user-facing budgetary management,Books,73.55,31.67,BNW-88802,11.22,169,71,2024-06-12
+310,User-centric solution-oriented interface,Home & Garden,381.29,230.85,TJQ-49876,6.6,232,841,2025-12-31
+311,Reduced zero-defect circuit,Clothing,168.85,102.27,DJC-30137,17.16,405,780,2025-01-28
+312,Stand-alone 4thgeneration throughput,Clothing,484.27,273.07,TIH-94751,18.15,132,585,2025-04-16
+313,Synergized logistical service-desk,Automotive,316.46,183.31,HUQ-06923,9.78,93,946,2025-06-26
+314,Right-sized methodical conglomeration,Electronics,119.55,62.33,PJW-50234,2.35,211,876,2025-04-15
+315,Up-sized asymmetric knowledgebase,Automotive,110.84,35.42,JRJ-57012,4.53,264,655,2025-06-06
+316,Face-to-face homogeneous alliance,Food & Beverage,238.04,152.09,VID-86956,6.47,14,520,2025-08-17
+317,Expanded 24hour initiative,Health & Beauty,368.23,120.88,NNY-09732,21.95,246,810,2024-03-11
+318,Self-enabling heuristic analyzer,Health & Beauty,440.78,137.45,AQQ-27866,10.21,416,139,2025-04-11
+319,Pre-emptive context-sensitive database,Office Supplies,190.35,119.49,JLZ-05598,5.94,138,118,2024-11-16
+320,Grass-roots user-facing open architecture,Automotive,170.79,73.15,ZXB-79607,19.09,482,481,2024-07-14
+321,Robust bi-directional Graphic Interface,Books,343.32,124.39,TRH-00995,4.29,85,976,2025-12-29
+322,Multi-tiered upward-trending service-desk,Toys,110.12,56.09,YQL-60021,1.86,400,138,2025-10-07
+323,Reverse-engineered system-worthy moderator,Health & Beauty,395.01,217.33,UID-81229,8.82,466,409,2025-04-22
+324,Function-based 24hour task-force,Health & Beauty,261.41,112.18,ZOZ-54225,20.64,3,799,2024-12-21
+325,Monitored dedicated Graphic Interface,Books,473.64,174.08,URS-89860,2.11,239,239,2024-03-22
+326,Profit-focused 4thgeneration hub,Health & Beauty,250.87,166.46,DYQ-67287,7.82,323,287,2025-09-24
+327,Stand-alone asynchronous secured line,Books,433.73,188.25,KHX-69779,10.98,270,130,2024-12-04
+328,Secured methodical orchestration,Electronics,52.57,29.28,EDL-68547,0.41,350,40,2024-03-06
+329,Persevering even-keeled knowledge user,Clothing,94.78,31.87,IRV-07905,10.28,71,535,2025-10-04
+330,Exclusive human-resource artificial intelligence,Home & Garden,93.65,28.58,CKA-00368,19.38,473,433,2025-08-24
+331,Customer-focused interactive project,Electronics,112.86,53.53,YCB-89159,10.95,462,207,2024-11-07
+332,Devolved 3rdgeneration complexity,Food & Beverage,181.23,93.27,UKC-19199,8.67,439,741,2024-11-27
+333,Ameliorated needs-based flexibility,Automotive,107.23,41.55,UJM-34955,20.04,344,472,2024-10-22
+334,Virtual next generation middleware,Home & Garden,489.8,330.54,BDG-81336,13.49,234,414,2024-06-03
+335,Synergistic full-range strategy,Office Supplies,167.61,87.36,XAM-15309,23.94,337,56,2025-03-11
+336,Managed interactive artificial intelligence,Health & Beauty,322.25,169.05,SVX-29550,5.9,350,406,2025-02-22
+337,Phased actuating migration,Health & Beauty,396.63,134.85,HLF-65153,23.69,312,700,2025-04-18
+338,Triple-buffered explicit portal,Office Supplies,492.81,328.73,JRC-44102,21.41,246,440,2025-02-03
+339,Assimilated national Graphic Interface,Books,11.86,4.48,HPI-16437,2.5,206,620,2025-09-02
+340,User-friendly systemic middleware,Automotive,491.68,202.23,ABS-58462,5.29,365,283,2026-01-26
+341,Synergized actuating capability,Electronics,69.93,29.36,REW-78985,2.47,498,428,2024-09-28
+342,Persevering 4thgeneration strategy,Toys,254.83,111.3,OLH-33144,10.65,487,38,2025-05-23
+343,Polarized scalable encryption,Toys,212.97,66.47,VSL-56895,8.4,201,700,2025-10-15
+344,Multi-channeled explicit monitoring,Home & Garden,102.44,49.5,RDC-72449,9.41,392,410,2024-09-16
+345,De-engineered system-worthy application,Clothing,6.93,3.25,PII-87090,24.35,269,770,2025-03-04
+346,Self-enabling dedicated protocol,Food & Beverage,196.71,64.48,ZPC-42340,24.04,167,213,2024-08-01
+347,Realigned stable project,Clothing,319.69,213.39,KZC-08731,18.46,8,97,2024-03-25
+348,Customizable motivating implementation,Food & Beverage,45.37,21.42,NME-51663,22.57,392,546,2025-09-10
+349,Reverse-engineered systematic alliance,Toys,206.66,102.78,FNI-41375,22.1,297,848,2025-02-22
+350,User-centric homogeneous hardware,Health & Beauty,435.38,171.43,AAD-86565,12.52,409,249,2024-12-01
+351,Open-architected cohesive productivity,Electronics,108.43,62.84,EBR-43539,6.95,275,967,2025-09-27
+352,Monitored static capacity,Automotive,164.04,52.65,ZOR-67210,18.99,339,491,2024-12-18
+353,Team-oriented national knowledgebase,Automotive,143.33,87.98,GAP-89823,10.25,161,992,2025-01-17
+354,Reduced tertiary initiative,Sports,232.24,161.58,SUG-12134,1.7,178,664,2025-11-09
+355,Persistent bandwidth-monitored implementation,Books,215.28,89.7,HCD-64237,10.5,179,819,2025-02-19
+356,Persistent human-resource database,Electronics,480.94,218.46,KBS-83603,6.08,109,638,2025-07-19
+357,Up-sized 24hour software,Food & Beverage,270.54,114.43,KSP-75710,16.38,159,854,2024-05-10
+358,Pre-emptive exuding challenge,Health & Beauty,426.9,273.47,JXE-94917,20.83,484,388,2024-11-13
+359,Team-oriented 4thgeneration Graphic Interface,Clothing,432.07,240.7,MQA-22510,10.16,428,185,2025-06-23
+360,Enterprise-wide maximized algorithm,Health & Beauty,224.22,102.89,BDL-60579,22.9,495,964,2025-11-08
+361,Business-focused needs-based interface,Electronics,197.77,73.61,LVP-01293,19.38,92,116,2024-06-09
+362,Integrated background complexity,Health & Beauty,417.91,143.91,RJP-00451,23.33,307,253,2024-03-01
+363,Universal full-range budgetary management,Health & Beauty,268.9,133.39,ZMX-66431,13.34,402,615,2025-04-11
+364,Sharable interactive open system,Sports,299.62,94.92,SUK-96520,9.41,215,964,2025-11-09
+365,Switchable zero-defect superstructure,Electronics,7.53,3.95,PUE-63023,19.29,371,854,2024-12-12
+366,Optimized global support,Sports,194.33,61.63,GME-60002,0.71,71,758,2025-03-20
+367,Balanced explicit system engine,Books,348.94,180.41,YEB-34286,10.95,440,158,2025-08-09
+368,Synchronized incremental matrices,Office Supplies,259.81,84.73,RJN-00534,10.34,158,564,2024-04-24
+369,Reverse-engineered foreground concept,Home & Garden,296.82,182.92,GTN-26393,12.44,427,175,2026-01-21
+370,Cloned national definition,Health & Beauty,95.21,59.8,SCI-22097,22.41,44,876,2025-04-07
+371,Team-oriented exuding matrix,Sports,499.81,248.06,VWF-76911,9.7,45,970,2025-03-10
+372,Advanced contextually-based task-force,Electronics,21.84,7.92,YCC-51627,12.19,291,876,2025-03-22
+373,Re-engineered explicit archive,Toys,394.9,230.49,IWG-01876,14.28,245,917,2024-07-21
+374,Reduced non-volatile implementation,Electronics,330.24,126.35,ARQ-35390,5.82,365,963,2024-08-30
+375,Visionary systemic matrix,Automotive,476.76,280.19,SYU-74790,3.27,269,387,2024-10-02
+376,Mandatory context-sensitive knowledgebase,Health & Beauty,389.41,131.61,CDS-98262,12.93,334,886,2025-02-10
+377,Synchronized full-range ability,Food & Beverage,6.07,2.39,OON-51980,21.91,399,644,2026-01-13
+378,Synergistic scalable hierarchy,Health & Beauty,439.26,264.25,RIL-79860,22.09,142,213,2025-06-25
+379,Centralized content-based workforce,Food & Beverage,178.59,59.0,LIQ-80190,2.31,140,201,2025-12-19
+380,Decentralized explicit solution,Home & Garden,32.38,19.29,PIG-81120,17.48,397,787,2025-04-14
+381,User-centric fresh-thinking analyzer,Toys,377.18,180.85,HFG-01959,20.7,75,110,2024-10-02
+382,Open-architected coherent monitoring,Clothing,246.38,137.17,NEK-27489,18.23,113,424,2024-03-12
+383,Optimized empowering concept,Clothing,166.11,65.48,HRT-17569,17.05,405,837,2024-10-26
+384,Reduced fresh-thinking help-desk,Electronics,148.32,85.35,NAX-68019,20.32,353,15,2024-03-23
+385,Business-focused incremental infrastructure,Automotive,349.14,106.71,WBW-73821,4.24,414,610,2025-04-26
+386,Business-focused logistical strategy,Clothing,125.11,61.49,JSP-55202,20.54,445,927,2024-04-23
+387,Switchable encompassing function,Clothing,62.49,21.32,ABG-83424,19.29,86,616,2025-12-30
+388,Virtual even-keeled emulation,Health & Beauty,289.73,181.61,JDH-65745,19.13,260,965,2025-12-06
+389,Mandatory coherent service-desk,Books,72.44,26.46,FSP-73660,10.16,132,617,2025-09-30
+390,Cross-platform empowering extranet,Toys,338.79,123.42,UJT-66648,1.07,227,99,2026-02-18
+391,Enhanced dedicated strategy,Automotive,354.04,136.07,KSM-50043,6.97,201,770,2024-03-10
+392,Implemented reciprocal contingency,Office Supplies,123.01,54.75,IKZ-10303,8.51,268,549,2024-07-11
+393,Team-oriented executive moderator,Books,308.16,110.62,NRS-40293,24.83,38,567,2025-03-18
+394,Networked systemic alliance,Home & Garden,50.52,33.55,XZM-55888,17.08,137,408,2026-01-17
+395,Profound system-worthy attitude,Automotive,194.86,115.71,MDI-87045,13.73,390,396,2024-07-28
+396,Synchronized mobile migration,Toys,25.21,14.52,STL-71791,5.27,494,10,2024-03-06
+397,Re-contextualized holistic protocol,Sports,340.02,160.2,GIP-13277,23.21,102,411,2025-11-19
+398,Team-oriented bandwidth-monitored solution,Health & Beauty,440.2,303.35,OKZ-13715,16.33,477,615,2024-08-28
+399,Synergized impactful protocol,Home & Garden,159.0,95.17,EMN-61327,5.16,107,721,2024-08-14
+400,Monitored grid-enabled function,Sports,454.04,265.31,ZDO-04469,0.57,163,434,2024-06-17
+401,Seamless 24/7 superstructure,Clothing,20.25,11.35,VIW-75691,11.2,124,99,2025-11-14
+402,Synergized client-driven protocol,Toys,264.65,97.04,TXZ-24701,3.08,288,10,2024-12-12
+403,Assimilated scalable protocol,Home & Garden,78.9,48.83,UUF-20833,6.65,467,618,2025-01-01
+404,Multi-tiered value-added methodology,Health & Beauty,92.31,34.49,RNM-78129,22.25,42,35,2025-08-24
+405,Self-enabling mobile alliance,Office Supplies,140.14,94.4,QYM-91846,14.11,440,849,2025-09-14
+406,Universal logistical secured line,Automotive,143.99,54.9,ELS-32109,0.43,404,889,2025-05-26
+407,Versatile uniform throughput,Home & Garden,368.78,149.44,SKQ-42291,9.25,242,244,2024-05-18
+408,Open-source 24/7 complexity,Clothing,377.13,155.82,NYT-08969,13.59,347,120,2026-02-01
+409,Configurable 5thgeneration projection,Sports,49.84,31.82,BGK-32439,5.16,204,881,2025-05-25
+410,Robust secondary artificial intelligence,Sports,270.29,109.73,AQO-49271,24.44,419,211,2026-01-29
+411,Monitored eco-centric initiative,Toys,161.31,52.98,BJV-94240,12.44,90,609,2025-05-25
+412,Grass-roots foreground success,Health & Beauty,30.16,19.15,ZER-97025,8.95,386,371,2025-07-22
+413,Centralized zero administration hub,Sports,305.22,165.54,SVL-60924,16.87,49,596,2025-06-18
+414,Optimized global structure,Clothing,374.52,209.42,QUG-09259,2.28,394,12,2025-12-13
+415,Digitized 4thgeneration open system,Electronics,310.79,133.17,UDV-57164,5.29,354,248,2024-06-07
+416,Persevering discrete approach,Sports,202.77,109.33,IRN-35467,13.31,204,834,2024-10-31
+417,Horizontal mobile conglomeration,Automotive,248.22,131.94,HLF-43768,16.86,411,225,2025-12-06
+418,Streamlined exuding help-desk,Toys,407.54,135.07,BMQ-89460,7.37,381,840,2025-06-03
+419,Profound clear-thinking database,Home & Garden,217.25,80.04,UPO-19685,23.14,444,647,2024-05-06
+420,Multi-tiered high-level utilization,Office Supplies,257.02,138.81,BAT-79689,16.15,125,869,2025-09-10
+421,Cross-platform attitude-oriented attitude,Books,291.39,152.09,AXR-12563,14.0,466,858,2025-08-14
+422,Open-architected 6thgeneration standardization,Office Supplies,189.52,120.34,AYQ-78998,19.48,176,527,2025-09-13
+423,Monitored intermediate implementation,Toys,479.38,275.68,AXS-90014,18.92,263,64,2026-02-01
+424,Polarized contextually-based solution,Sports,277.8,187.97,FHD-76166,18.2,270,21,2025-02-06
+425,Multi-channeled multi-tasking extranet,Clothing,159.38,86.08,TYV-64866,20.14,427,270,2025-03-14
+426,Proactive bottom-line service-desk,Sports,468.71,253.41,DSM-97327,17.09,3,88,2024-05-04
+427,Organized mission-critical access,Electronics,291.32,161.82,WNR-11818,9.31,422,211,2025-07-31
+428,Right-sized discrete moderator,Toys,298.94,143.35,VOI-02229,6.58,348,580,2025-01-03
+429,Proactive dynamic complexity,Books,249.17,89.84,EIF-38694,15.16,209,592,2024-05-12
+430,Synchronized 24/7 customer loyalty,Books,50.01,18.59,QNZ-68305,23.07,458,32,2025-03-24
+431,Streamlined multi-tasking solution,Clothing,270.79,149.35,KFM-64242,2.6,196,328,2024-03-04
+432,Automated cohesive budgetary management,Sports,359.27,138.89,TKA-22241,0.26,195,1,2025-02-26
+433,Monitored discrete array,Clothing,84.17,41.93,RUC-65274,5.95,478,786,2025-07-11
+434,Cross-platform fault-tolerant database,Clothing,72.26,35.45,MKZ-75477,11.33,310,98,2026-01-25
+435,Realigned eco-centric intranet,Books,326.15,104.67,ITM-71829,0.19,450,739,2025-02-18
+436,Right-sized composite groupware,Clothing,275.2,167.65,LMF-09705,21.01,441,440,2024-04-11
+437,User-centric discrete intranet,Electronics,426.84,261.03,KLG-77031,7.18,414,883,2026-01-24
+438,Intuitive foreground framework,Food & Beverage,332.21,110.83,RAB-15427,1.84,198,763,2024-12-14
+439,Streamlined multi-tasking function,Food & Beverage,134.21,55.96,WIM-77068,12.53,100,278,2024-10-07
+440,Horizontal cohesive success,Electronics,428.29,128.7,GNT-47763,2.36,48,746,2024-08-14
+441,Synergistic dedicated concept,Automotive,187.23,110.71,FCR-16025,10.17,226,777,2024-03-23
+442,Profound leadingedge benchmark,Books,296.62,165.84,QNP-19414,4.16,461,45,2024-08-15
+443,Pre-emptive real-time implementation,Health & Beauty,171.41,72.46,UMF-84004,5.68,170,885,2025-03-25
+444,Up-sized national website,Sports,32.52,11.02,ZTH-16159,16.11,328,156,2024-05-02
+445,Self-enabling asynchronous groupware,Electronics,119.7,49.79,HUK-03102,8.41,86,972,2025-01-22
+446,Persistent 24hour encoding,Automotive,50.1,29.61,VEO-49998,22.0,133,378,2024-12-06
+447,Cloned encompassing system engine,Food & Beverage,498.03,337.17,LEG-85496,20.37,416,466,2025-07-31
+448,Organized secondary open system,Toys,175.23,72.84,QQY-91746,18.1,380,196,2025-10-23
+449,Public-key non-volatile productivity,Clothing,308.9,124.73,MMB-33479,22.17,350,424,2026-02-25
+450,Innovative impactful open architecture,Food & Beverage,360.55,113.2,MYY-42448,24.88,162,783,2025-01-30
+451,Robust systemic adapter,Books,84.94,58.94,KIZ-91356,21.53,376,79,2025-10-02
+452,Reactive multi-tasking website,Clothing,422.41,294.16,ZAH-52794,2.24,18,173,2024-12-03
+453,Devolved dedicated algorithm,Automotive,10.95,6.19,FLY-29074,22.0,279,417,2025-09-29
+454,Networked 24/7 algorithm,Automotive,69.94,39.18,USU-84173,9.13,493,574,2025-10-15
+455,Versatile system-worthy support,Food & Beverage,223.77,138.22,UWU-62794,20.49,318,176,2024-09-02
+456,Mandatory neutral artificial intelligence,Office Supplies,260.75,103.48,MLM-19200,5.44,238,674,2024-09-19
+457,Persistent intermediate circuit,Electronics,207.81,84.33,BID-42989,18.7,36,894,2025-05-01
+458,Implemented user-facing forecast,Clothing,488.91,157.37,CRS-99461,8.76,322,876,2024-08-18
+459,Synchronized responsive application,Food & Beverage,304.95,108.88,ESE-39891,6.65,295,684,2025-04-13
+460,Progressive global success,Books,76.11,33.89,EAM-82527,10.18,327,794,2024-07-12
+461,Multi-tiered fresh-thinking artificial intelligence,Food & Beverage,494.49,233.4,UBO-02813,13.7,113,38,2025-10-21
+462,Multi-lateral multimedia synergy,Automotive,390.04,120.69,ESY-52343,23.52,165,978,2024-11-15
+463,Open-source high-level data-warehouse,Automotive,166.12,105.61,MYN-34317,20.72,317,974,2025-10-18
+464,Expanded bi-directional concept,Toys,477.97,281.22,LSO-53811,9.75,136,810,2025-04-07
+465,Realigned tertiary matrices,Clothing,238.28,159.75,GYY-55341,16.56,498,101,2024-09-12
+466,Reduced bifurcated Graphical User Interface,Health & Beauty,76.44,37.89,KFJ-59534,9.23,96,515,2024-06-01
+467,Future-proofed content-based toolset,Books,346.75,143.56,RKQ-19118,14.71,433,286,2024-10-16
+468,Virtual cohesive data-warehouse,Sports,133.0,63.54,WBG-81559,8.34,0,480,2025-07-07
+469,Total well-modulated solution,Books,14.08,4.26,FBR-70607,17.11,253,759,2024-03-16
+470,Re-engineered executive function,Electronics,166.76,62.43,HCG-71191,21.42,25,574,2024-06-17
+471,Phased reciprocal leverage,Automotive,308.25,154.55,AJP-98200,0.76,134,6,2024-07-09
+472,Synergistic bifurcated framework,Food & Beverage,88.68,34.23,VBD-55716,6.72,463,86,2025-01-04
+473,Open-source analyzing neural-net,Office Supplies,245.63,87.33,LJS-17725,12.39,149,499,2025-06-28
+474,Fundamental coherent Graphic Interface,Food & Beverage,74.05,47.37,VWZ-90775,20.98,358,215,2025-07-12
+475,Ergonomic 4thgeneration portal,Books,266.09,98.4,SVI-19318,17.63,158,743,2025-04-12
+476,Cross-platform zero administration service-desk,Home & Garden,305.28,124.69,OSI-16912,14.72,337,884,2024-06-30
+477,Devolved multimedia approach,Home & Garden,121.75,68.87,WWJ-93858,24.9,272,348,2025-08-19
+478,Multi-channeled eco-centric solution,Toys,261.79,140.07,TVI-63109,24.57,184,795,2026-02-14
+479,Self-enabling modular monitoring,Food & Beverage,218.42,133.95,MYW-17381,3.16,381,6,2026-01-20
+480,Proactive intermediate paradigm,Electronics,96.67,37.74,YKE-00599,21.63,472,316,2025-08-06
+481,Persevering high-level knowledge user,Clothing,379.13,166.69,IZN-87760,19.38,34,833,2024-08-21
+482,Digitized global projection,Automotive,52.28,29.67,ZQJ-57284,5.52,442,500,2025-05-01
+483,Multi-layered interactive implementation,Electronics,165.14,97.05,LLK-91037,3.82,57,765,2025-10-19
+484,Cross-group well-modulated strategy,Books,124.84,61.9,PGO-96461,5.94,62,656,2025-06-20
+485,Team-oriented asymmetric middleware,Books,13.91,6.68,AUY-71335,24.94,345,201,2025-03-04
+486,Advanced user-facing adapter,Electronics,208.73,111.18,EQP-58324,15.98,110,648,2024-03-21
+487,Horizontal fresh-thinking budgetary management,Home & Garden,448.15,293.31,HKH-24262,12.18,209,115,2026-01-25
+488,Cross-platform content-based interface,Health & Beauty,136.76,91.41,VER-20100,7.49,318,232,2025-08-26
+489,Cloned client-driven installation,Toys,66.48,36.96,WHR-90328,8.14,429,599,2024-06-06
+490,Profit-focused context-sensitive standardization,Electronics,281.29,144.99,TSM-78837,4.66,77,189,2024-03-05
+491,Open-source tangible workforce,Sports,218.6,138.98,HQJ-76090,10.62,495,844,2024-06-19
+492,User-friendly zero-defect encoding,Books,450.03,174.39,GED-04278,21.61,298,662,2024-06-19
+493,Object-based maximized time-frame,Office Supplies,132.1,63.85,QAQ-84352,17.99,53,313,2024-10-28
+494,Business-focused transitional standardization,Clothing,106.18,35.4,NAO-56792,14.03,51,129,2024-03-28
+495,Organic fresh-thinking core,Books,319.72,145.42,RKP-18513,22.14,374,550,2026-02-24
+496,Monitored tertiary secured line,Office Supplies,280.43,195.91,TPU-97869,14.19,64,128,2025-09-09
+497,Ergonomic intangible adapter,Health & Beauty,435.98,205.09,GNQ-61677,17.85,74,750,2024-03-17
+498,Future-proofed radical service-desk,Home & Garden,392.63,224.29,ODP-32500,10.47,76,695,2024-11-12
+499,Multi-lateral systematic collaboration,Books,184.37,101.63,OBZ-73599,7.43,481,832,2024-10-15
+500,Horizontal heuristic initiative,Clothing,132.81,53.66,QFL-82046,22.34,401,853,2025-03-20
+501,Upgradable stable strategy,Clothing,146.83,49.3,SKC-39401,1.11,126,912,2025-04-17
+502,Virtual web-enabled architecture,Sports,263.77,133.17,ZWX-67238,14.02,376,402,2024-12-15
+503,Centralized system-worthy circuit,Home & Garden,332.26,165.24,OPY-68591,9.58,391,902,2026-02-20
+504,Customer-focused real-time task-force,Toys,120.2,66.47,IOQ-40065,20.83,247,333,2025-02-22
+505,Centralized dynamic algorithm,Sports,347.66,240.5,EWC-14698,9.16,213,73,2025-08-15
+506,Team-oriented methodical artificial intelligence,Automotive,488.75,204.73,SZP-48663,10.76,334,206,2024-04-15
+507,Distributed solution-oriented info-mediaries,Automotive,274.87,157.4,ZIM-14757,14.11,420,75,2025-06-24
+508,Proactive web-enabled middleware,Automotive,275.53,114.93,IQT-29182,4.68,59,731,2025-06-29
+509,Business-focused holistic info-mediaries,Office Supplies,80.92,52.47,WQV-30117,9.99,220,547,2025-09-27
+510,Versatile upward-trending extranet,Health & Beauty,38.64,21.96,RMH-65286,19.2,103,982,2024-07-01
+511,Persistent 24/7 open system,Home & Garden,208.03,143.83,LLS-02227,1.65,194,58,2025-03-14
+512,Seamless high-level policy,Sports,322.59,148.57,SQT-37390,13.79,69,498,2025-03-03
+513,Persevering executive complexity,Sports,317.21,154.36,UBT-95756,18.81,459,136,2026-01-11
+514,Profit-focused optimizing alliance,Toys,18.74,5.63,EWV-47034,10.25,337,307,2025-03-04
+515,Reduced motivating emulation,Food & Beverage,173.51,63.56,VAL-51687,3.73,76,80,2025-08-27
+516,Implemented 3rdgeneration function,Office Supplies,323.41,119.75,OSD-90394,7.01,469,352,2024-08-19
+517,Monitored transitional encryption,Automotive,386.44,239.23,ZCY-17995,21.92,40,998,2024-04-20
+518,Multi-tiered multi-state complexity,Automotive,207.21,124.34,OLI-96697,19.47,123,858,2024-11-13
+519,Integrated background utilization,Sports,334.81,108.51,BSZ-83244,23.34,321,166,2024-05-02
+520,Digitized clear-thinking core,Toys,238.84,138.86,QKR-98708,3.76,323,906,2024-10-12
+521,Fundamental interactive implementation,Books,99.43,59.31,YQH-14577,21.46,175,363,2024-07-29
+522,Function-based cohesive database,Home & Garden,498.32,335.7,ZUO-04516,22.9,73,719,2026-02-15
+523,Extended 5thgeneration project,Books,136.77,43.44,SAI-75791,8.71,136,436,2025-12-30
+524,Right-sized global adapter,Office Supplies,478.94,334.11,HDR-56747,14.57,59,723,2024-10-20
+525,Front-line client-server software,Office Supplies,282.13,152.17,WBN-68849,8.45,77,387,2024-04-08
+526,Reduced user-facing access,Automotive,314.53,114.36,TFC-75934,14.45,42,12,2024-04-18
+527,Front-line uniform circuit,Clothing,235.04,72.24,LGQ-52444,15.03,336,980,2025-01-22
+528,Programmable neutral model,Food & Beverage,93.05,63.57,QGS-25716,12.9,445,543,2024-10-13
+529,Vision-oriented interactive migration,Books,393.23,179.08,HXY-04213,13.6,360,363,2025-07-09
+530,Sharable executive attitude,Electronics,240.3,85.63,BHH-02778,11.36,105,412,2025-04-21
+531,Cloned heuristic initiative,Electronics,146.53,100.12,NCA-88207,3.56,402,848,2025-10-19
+532,Digitized attitude-oriented monitoring,Electronics,492.1,181.73,HWH-35801,12.4,105,47,2025-07-07
+533,Stand-alone heuristic solution,Home & Garden,7.91,2.38,FUU-30914,6.63,282,975,2025-10-11
+534,Advanced transitional help-desk,Health & Beauty,172.63,120.84,UUO-95451,3.54,288,436,2024-10-02
+535,Future-proofed dynamic database,Home & Garden,408.05,269.03,JBQ-06695,4.3,25,864,2025-01-28
+536,Open-architected user-facing complexity,Home & Garden,72.45,22.7,SSR-20670,10.69,462,184,2024-11-05
+537,Mandatory heuristic contingency,Health & Beauty,87.16,58.6,ZKA-76569,22.2,389,492,2025-02-11
+538,Advanced human-resource matrices,Automotive,224.29,140.41,EWZ-43655,16.37,52,883,2025-06-24
+539,Ergonomic bifurcated firmware,Automotive,377.82,119.68,WEE-46384,23.28,168,896,2024-06-15
+540,Versatile systemic open system,Sports,18.61,12.44,ZPQ-20007,11.42,451,42,2024-07-18
+541,Synergistic 24/7 encoding,Home & Garden,357.82,205.19,SDD-91593,18.49,11,280,2024-10-03
+542,Focused tangible approach,Sports,205.68,123.17,OEJ-80272,8.62,297,497,2024-11-19
+543,Team-oriented even-keeled access,Sports,318.07,112.23,PAJ-54924,6.35,21,799,2024-08-22
+544,Function-based needs-based application,Toys,81.24,31.59,ESU-83038,12.64,92,85,2025-10-18
+545,Down-sized demand-driven functionalities,Electronics,472.26,280.95,VMW-95828,24.35,457,215,2025-11-28
+546,Managed multi-tasking policy,Food & Beverage,58.66,24.91,LKJ-09743,24.64,459,169,2026-02-08
+547,Cloned well-modulated website,Clothing,362.09,129.24,JST-05736,20.9,120,576,2025-06-26
+548,Operative methodical access,Food & Beverage,443.21,216.83,PNT-42345,20.17,56,611,2025-09-04
+549,De-engineered holistic task-force,Books,244.05,130.17,NZD-75673,17.85,453,717,2025-01-08
+550,Digitized 5thgeneration Graphic Interface,Toys,496.0,158.7,BGF-26873,17.97,317,498,2025-06-17
+551,Front-line zero administration moderator,Health & Beauty,184.88,114.81,SAG-81641,15.15,425,779,2025-04-16
+552,Stand-alone bi-directional solution,Sports,149.99,48.11,SEY-88108,7.96,314,390,2025-05-22
+553,Open-source multimedia pricing structure,Food & Beverage,474.31,234.91,ZNM-80577,17.13,437,34,2026-01-24
+554,Future-proofed disintermediate algorithm,Books,296.54,107.63,PKU-41937,9.44,81,63,2025-03-28
+555,Robust incremental function,Home & Garden,122.24,77.9,KDE-00284,7.47,441,743,2024-04-15
+556,Optional bottom-line frame,Toys,122.36,53.67,SCM-32662,24.49,288,83,2024-03-29
+557,Optional disintermediate artificial intelligence,Office Supplies,422.83,218.54,JUO-73965,13.21,40,870,2024-09-28
+558,Front-line composite flexibility,Books,291.55,122.67,BHQ-91786,16.91,270,390,2024-09-06
+559,Implemented upward-trending productivity,Office Supplies,474.23,320.09,TBL-60254,23.37,160,470,2025-06-22
+560,Cloned didactic definition,Office Supplies,482.61,255.44,IER-33103,3.5,267,523,2024-03-18
+561,Implemented demand-driven frame,Clothing,368.79,199.12,YAW-63299,9.08,124,82,2025-03-17
+562,Multi-lateral client-server pricing structure,Food & Beverage,422.28,271.19,BOM-47711,13.85,295,169,2024-07-30
+563,Synchronized motivating leverage,Home & Garden,262.92,141.61,CJM-17863,22.04,309,158,2025-12-25
+564,Customer-focused empowering knowledgebase,Sports,89.77,44.24,NEO-30722,23.65,248,190,2025-06-10
+565,Multi-channeled hybrid success,Automotive,333.56,185.35,WMS-27835,18.07,54,453,2024-11-12
+566,Ergonomic attitude-oriented model,Health & Beauty,243.92,133.77,NHE-25598,15.62,68,835,2025-03-01
+567,Implemented impactful artificial intelligence,Health & Beauty,165.83,51.54,SCG-25233,6.84,288,388,2024-03-01
+568,Re-contextualized solution-oriented toolset,Health & Beauty,293.45,146.64,OIU-35865,12.07,392,374,2026-01-24
+569,Open-source impactful alliance,Books,347.51,239.31,SNS-81186,2.27,287,112,2024-08-02
+570,Pre-emptive client-driven matrix,Automotive,92.07,36.12,QGP-56815,7.59,38,1000,2024-11-15
+571,Polarized bottom-line synergy,Books,165.12,81.86,ZKP-72974,23.24,234,434,2024-04-13
+572,Managed mobile success,Office Supplies,168.98,82.73,GJS-03666,2.37,65,639,2024-03-02
+573,Synchronized well-modulated focus group,Food & Beverage,457.91,148.29,LTK-26355,7.22,164,9,2025-06-21
+574,Intuitive empowering middleware,Electronics,308.99,158.8,CAD-40694,17.75,470,727,2024-04-16
+575,Public-key dedicated access,Office Supplies,244.31,164.43,SFZ-53368,4.38,45,519,2025-10-19
+576,Persevering intangible application,Health & Beauty,430.74,181.23,XED-47758,21.54,478,719,2024-05-07
+577,Stand-alone bandwidth-monitored product,Electronics,360.52,198.77,IUN-66690,12.89,473,962,2025-07-12
+578,Visionary encompassing projection,Food & Beverage,52.04,28.82,BUC-97054,21.24,13,411,2024-04-27
+579,Monitored uniform service-desk,Health & Beauty,134.7,50.94,AMG-97563,10.89,486,390,2025-01-07
+580,Reverse-engineered 24/7 leverage,Books,237.44,115.82,BXG-76147,9.87,160,478,2025-06-17
+581,Re-contextualized client-server core,Automotive,445.1,180.69,MGW-56836,16.29,444,831,2024-03-17
+582,Open-source context-sensitive array,Automotive,449.34,309.15,GAO-69487,20.05,251,170,2024-05-07
+583,Innovative analyzing archive,Electronics,464.54,319.92,FML-58648,6.17,409,874,2025-06-24
+584,Multi-lateral multi-tasking toolset,Books,346.64,175.64,GKZ-89035,7.78,381,948,2024-03-26
+585,Fully-configurable human-resource portal,Toys,240.04,130.14,UID-87836,19.83,166,401,2025-12-01
+586,Future-proofed interactive help-desk,Toys,285.88,148.59,JUX-74141,24.11,337,684,2024-07-31
+587,Progressive bi-directional task-force,Home & Garden,164.3,88.42,VNY-38087,11.27,265,390,2025-10-02
+588,Profit-focused multimedia forecast,Toys,311.89,162.93,GMP-03556,10.39,385,295,2024-04-23
+589,Organized motivating time-frame,Books,110.68,51.3,LLG-09330,6.59,452,902,2025-07-27
+590,Up-sized analyzing budgetary management,Office Supplies,499.53,180.53,ECN-35811,11.1,18,767,2026-01-22
+591,Synergized next generation groupware,Toys,268.96,144.9,UMW-14452,20.95,424,310,2025-06-26
+592,Reactive value-added matrix,Electronics,337.62,147.64,DFC-26923,8.62,409,970,2024-03-16
+593,Ameliorated disintermediate service-desk,Electronics,241.99,145.66,ETB-71250,18.61,28,714,2024-03-05
+594,Persevering dynamic capacity,Food & Beverage,268.41,174.28,ALR-14045,1.62,183,286,2026-02-01
+595,Proactive explicit challenge,Clothing,45.07,27.56,SHL-51275,20.58,442,752,2025-08-27
+596,Sharable user-facing capacity,Books,59.84,39.25,GGD-85603,24.26,400,494,2025-11-26
+597,Progressive object-oriented software,Automotive,261.79,148.23,QZZ-86537,8.38,258,627,2025-01-30
+598,Visionary bottom-line methodology,Electronics,222.72,126.0,EGO-16774,1.8,413,358,2026-02-06
+599,Object-based fresh-thinking implementation,Health & Beauty,174.45,86.17,IOU-22682,17.35,35,405,2024-03-27
+600,Decentralized cohesive middleware,Food & Beverage,36.75,18.69,TRN-21887,10.28,404,166,2025-10-19
+601,Fundamental asynchronous capability,Automotive,437.2,286.06,HWA-57187,15.42,325,171,2025-06-11
+602,Persevering solution-oriented algorithm,Health & Beauty,133.29,57.85,IHM-10907,23.13,84,325,2024-08-25
+603,Horizontal stable framework,Food & Beverage,335.84,171.58,UFQ-77952,1.5,448,625,2025-05-06
+604,Switchable systematic customer loyalty,Sports,473.15,281.21,DQQ-70546,22.52,220,314,2025-04-26
+605,Cross-platform stable emulation,Books,446.26,245.93,GUZ-04343,23.13,8,604,2025-05-18
+606,Multi-channeled local Graphic Interface,Books,130.94,86.26,HHI-77397,6.52,139,40,2024-11-01
+607,Optional mission-critical help-desk,Health & Beauty,178.36,82.28,NWZ-99543,16.11,423,171,2025-06-01
+608,Centralized real-time ability,Automotive,174.42,99.98,MHA-49812,16.08,459,631,2024-11-29
+609,Pre-emptive optimal open architecture,Office Supplies,389.11,187.96,QFQ-79341,9.36,220,507,2025-11-01
+610,Devolved 3rdgeneration intranet,Books,147.25,83.23,ETH-01405,24.73,337,560,2024-05-29
+611,Multi-lateral attitude-oriented matrix,Automotive,178.82,77.07,TLS-73980,3.01,134,309,2025-02-14
+612,Future-proofed responsive definition,Office Supplies,272.68,159.45,RPE-08586,2.38,155,129,2024-04-11
+613,Implemented composite task-force,Sports,413.79,277.48,EMN-13694,7.99,422,659,2025-06-11
+614,Expanded non-volatile software,Food & Beverage,464.68,228.26,MYX-50253,10.07,261,857,2025-01-31
+615,Enhanced modular architecture,Office Supplies,25.8,13.29,LVM-10151,24.86,450,214,2025-08-08
+616,Streamlined regional database,Automotive,177.99,66.52,RWP-14872,2.6,449,103,2025-03-18
+617,Cross-group directional hub,Clothing,436.25,231.93,UXG-04763,3.21,474,443,2025-03-29
+618,Organized static definition,Clothing,19.71,6.22,UYU-92324,0.21,345,621,2025-10-15
+619,Organized encompassing frame,Books,208.77,80.86,KCX-11924,23.21,237,30,2024-05-18
+620,Balanced scalable paradigm,Electronics,393.14,120.01,OPD-28898,21.38,147,607,2025-03-24
+621,Front-line systematic adapter,Sports,90.55,47.01,XEC-56155,21.88,18,703,2025-05-29
+622,Devolved value-added time-frame,Home & Garden,77.15,48.75,YMJ-62968,10.95,289,528,2025-08-16
+623,Balanced 3rdgeneration core,Books,168.72,107.98,JCK-07231,20.37,289,701,2025-09-26
+624,Operative incremental encryption,Clothing,18.79,12.75,VIB-79944,22.41,124,545,2025-08-14
+625,Switchable actuating structure,Health & Beauty,361.01,139.64,WKN-67465,4.21,91,993,2025-12-19
+626,Visionary didactic workforce,Clothing,258.18,177.29,BJB-10128,23.3,239,657,2025-03-29
+627,Streamlined bandwidth-monitored secured line,Food & Beverage,425.96,136.9,NUH-54915,23.17,23,869,2025-06-26
+628,Exclusive context-sensitive ability,Books,82.74,42.73,BXF-81772,16.56,451,228,2024-08-05
+629,Advanced non-volatile Graphic Interface,Food & Beverage,229.89,130.91,LXU-12545,6.4,319,178,2025-10-25
+630,Grass-roots web-enabled flexibility,Clothing,458.59,305.03,KBW-36867,10.01,63,404,2024-07-06
+631,Virtual 24/7 toolset,Books,481.5,291.34,HYL-00314,23.77,26,279,2025-08-30
+632,Automated bifurcated artificial intelligence,Health & Beauty,171.91,84.5,DVP-20558,12.82,413,33,2024-09-21
+633,Multi-tiered explicit system engine,Home & Garden,220.41,78.92,HSY-65983,10.7,190,704,2025-07-23
+634,Function-based intermediate application,Health & Beauty,18.34,6.12,MLQ-91236,13.73,448,81,2024-07-27
+635,Persevering coherent collaboration,Electronics,367.14,130.02,XLP-93792,19.6,13,987,2025-01-22
+636,Balanced mobile circuit,Clothing,111.51,44.0,XFC-58636,15.95,369,728,2025-07-13
+637,Focused 24/7 methodology,Toys,321.24,156.65,AGW-84801,11.15,224,764,2025-05-15
+638,Mandatory client-server Graphic Interface,Toys,30.89,11.79,YAN-77601,14.03,414,965,2025-01-29
+639,Multi-tiered multimedia moratorium,Books,272.14,109.99,DAS-68783,15.12,298,263,2024-07-28
+640,De-engineered reciprocal functionalities,Toys,450.95,300.56,ZAF-69271,10.96,21,29,2025-10-03
+641,Organized mission-critical hierarchy,Books,374.84,132.06,SRT-78795,4.31,476,497,2024-07-21
+642,Expanded global Internet solution,Health & Beauty,495.88,263.12,SZP-21473,6.12,279,715,2024-04-11
+643,Adaptive dynamic definition,Electronics,427.2,230.91,MZV-56906,21.28,51,26,2024-10-09
+644,Focused bifurcated productivity,Office Supplies,49.04,27.45,JUY-00995,2.63,258,820,2025-06-12
+645,Configurable human-resource concept,Food & Beverage,342.98,167.19,DRM-23773,15.96,37,471,2024-03-09
+646,Managed client-server website,Electronics,124.77,74.47,QLE-11949,4.42,101,688,2025-09-06
+647,Digitized eco-centric help-desk,Toys,197.48,76.66,FSB-63579,22.0,243,17,2024-05-04
+648,Distributed responsive access,Clothing,176.66,122.39,QLL-14282,23.79,354,565,2024-04-07
+649,Profound reciprocal conglomeration,Electronics,69.1,41.28,RVC-49146,22.82,470,283,2024-09-03
+650,Open-architected systematic customer loyalty,Home & Garden,46.46,29.51,LRJ-00520,16.16,354,616,2025-06-07
+651,Ergonomic client-driven info-mediaries,Health & Beauty,27.82,18.01,PHO-16296,11.33,314,677,2025-06-03
+652,Compatible didactic knowledgebase,Office Supplies,169.94,107.63,UFP-75007,1.77,304,712,2025-09-29
+653,Advanced maximized parallelism,Sports,358.18,223.46,XOM-53342,2.82,233,292,2024-05-10
+654,Sharable directional pricing structure,Toys,330.13,154.79,DYG-56406,12.07,71,768,2025-08-25
+655,Configurable hybrid moratorium,Electronics,318.57,115.64,JXO-62671,4.35,118,592,2024-05-23
+656,Expanded fresh-thinking help-desk,Automotive,153.2,51.67,XXI-75510,22.88,80,338,2025-11-22
+657,Phased uniform parallelism,Office Supplies,246.76,94.7,YZV-56957,5.61,463,199,2024-08-26
+658,Configurable uniform Graphical User Interface,Electronics,72.63,47.55,HNE-08164,9.44,184,261,2024-03-07
+659,Open-source logistical project,Toys,76.54,50.54,WSF-54354,10.85,381,215,2024-07-31
+660,Team-oriented tangible ability,Books,355.99,125.16,XAI-53988,14.39,7,829,2024-11-13
+661,Universal zero administration conglomeration,Health & Beauty,422.53,245.22,YZA-14256,2.86,112,592,2025-12-08
+662,Balanced responsive software,Health & Beauty,459.6,302.18,UKH-55840,12.73,45,675,2024-04-03
+663,Grass-roots context-sensitive alliance,Home & Garden,221.4,106.25,OGV-61037,14.54,333,9,2024-05-22
+664,Multi-layered 3rdgeneration task-force,Food & Beverage,100.66,50.29,AXQ-43500,13.15,55,321,2025-10-11
+665,Upgradable analyzing software,Home & Garden,367.63,175.03,PHG-91476,24.86,346,233,2024-10-03
+666,Face-to-face leadingedge complexity,Toys,47.89,28.01,JJU-29594,23.56,332,179,2025-05-13
+667,Optional eco-centric function,Office Supplies,195.53,118.49,OZO-57348,1.11,295,566,2025-03-01
+668,Profound logistical framework,Automotive,323.85,218.41,XED-45972,23.77,80,66,2025-07-09
+669,Organic encompassing productivity,Home & Garden,251.57,97.35,RXL-86409,7.66,436,238,2024-09-12
+670,Vision-oriented motivating moratorium,Automotive,208.99,99.66,CBS-04453,21.43,451,223,2024-10-31
+671,Digitized attitude-oriented moratorium,Sports,432.07,189.54,KYV-75931,10.89,377,784,2024-11-24
+672,Synchronized even-keeled open architecture,Automotive,402.25,278.22,LHO-59341,10.92,73,894,2024-03-01
+673,Grass-roots modular archive,Sports,124.37,85.49,LMP-35872,3.33,344,526,2025-05-15
+674,Profound explicit adapter,Automotive,318.07,114.45,UCL-38589,24.9,307,631,2025-05-12
+675,Down-sized bi-directional circuit,Toys,8.35,5.11,MTT-52207,0.5,140,835,2025-05-13
+676,Operative multimedia circuit,Books,47.77,28.55,RYG-10616,2.96,290,678,2025-09-07
+677,Enterprise-wide optimal installation,Food & Beverage,171.95,109.5,ZNA-04996,5.52,450,51,2025-08-09
+678,Down-sized scalable time-frame,Food & Beverage,279.68,115.82,SPS-35795,23.93,80,147,2024-03-14
+679,Secured local database,Food & Beverage,93.05,42.21,FKY-87569,17.07,180,832,2025-12-27
+680,Object-based user-facing data-warehouse,Clothing,423.46,271.23,JYZ-56897,8.38,360,969,2026-02-08
+681,Compatible holistic neural-net,Clothing,179.12,105.4,STE-89007,3.76,178,281,2024-03-12
+682,Up-sized homogeneous paradigm,Office Supplies,127.38,48.63,HYS-01827,20.14,499,844,2024-03-14
+683,Future-proofed clear-thinking model,Office Supplies,42.46,20.54,HDP-54734,8.49,367,335,2026-01-03
+684,Cloned systematic approach,Office Supplies,472.75,200.76,PAX-29248,21.75,85,63,2024-12-14
+685,Grass-roots asynchronous throughput,Electronics,215.17,140.73,VTA-81245,13.88,263,699,2025-09-23
+686,Exclusive mission-critical intranet,Food & Beverage,416.66,226.37,GUW-32522,1.61,315,847,2025-09-28
+687,Profound heuristic definition,Office Supplies,397.19,248.49,FUA-97824,20.2,70,614,2025-02-04
+688,Reduced multimedia hub,Automotive,429.23,240.17,MDJ-83872,8.94,65,363,2025-11-28
+689,Implemented discrete application,Automotive,64.76,29.73,KLG-08129,1.75,227,187,2025-02-12
+690,Open-architected explicit capacity,Books,98.0,33.52,XIV-35239,10.57,33,998,2025-09-28
+691,Front-line 3rdgeneration time-frame,Books,49.38,24.35,PBB-43251,19.14,317,349,2025-11-21
+692,Upgradable zero tolerance open architecture,Office Supplies,241.5,110.76,RBD-91619,1.0,254,245,2024-08-04
+693,Face-to-face logistical concept,Electronics,390.16,264.79,ZKU-21030,12.9,484,112,2024-12-24
+694,Progressive human-resource project,Sports,487.92,318.24,BTB-97450,11.09,10,94,2024-12-16
+695,User-centric upward-trending policy,Sports,19.21,7.66,IHT-47631,16.69,228,69,2025-06-23
+696,Ergonomic actuating Graphical User Interface,Health & Beauty,274.02,126.18,VZP-63354,2.42,15,618,2025-01-09
+697,Vision-oriented global website,Books,472.53,176.25,IUJ-26777,21.08,131,263,2024-09-05
+698,Multi-channeled analyzing algorithm,Health & Beauty,369.19,155.07,TGG-62770,23.43,198,428,2025-03-06
+699,Cross-group leadingedge data-warehouse,Toys,419.96,216.69,QXD-81099,9.48,334,568,2025-07-18
+700,Assimilated fresh-thinking complexity,Automotive,459.29,289.92,EFV-22587,3.1,6,756,2025-11-06
+701,Cross-platform user-facing data-warehouse,Sports,299.4,192.23,TSP-68841,18.16,33,787,2024-05-16
+702,Quality-focused user-facing matrix,Home & Garden,15.3,5.26,JMT-06077,16.97,129,521,2025-03-19
+703,Future-proofed bifurcated migration,Electronics,343.55,184.02,SQO-98240,5.42,349,629,2024-06-06
+704,Ameliorated clear-thinking moderator,Sports,390.55,182.82,DSD-30252,12.41,335,658,2025-12-26
+705,Managed analyzing framework,Food & Beverage,38.17,22.14,FSV-37928,14.98,40,147,2026-01-10
+706,Enhanced mobile pricing structure,Toys,186.14,92.15,TMF-47358,22.65,68,745,2025-05-02
+707,Integrated multi-state system engine,Electronics,323.93,161.65,GBP-82938,16.63,281,70,2024-11-28
+708,Horizontal empowering matrices,Food & Beverage,470.32,248.81,QUJ-31551,19.7,50,911,2025-06-08
+709,Decentralized motivating parallelism,Toys,260.17,163.92,WZC-68648,19.77,485,318,2026-01-08
+710,Streamlined content-based Internet solution,Books,308.97,183.24,AKW-55396,10.89,443,716,2025-05-22
+711,Self-enabling upward-trending model,Toys,181.24,74.62,DHM-31596,0.4,464,462,2026-02-07
+712,Synergized multimedia Graphical User Interface,Food & Beverage,190.61,114.35,SAW-77060,24.36,323,391,2025-03-30
+713,Synergized modular software,Electronics,20.96,10.26,NWT-66101,15.43,126,524,2024-03-05
+714,Multi-layered bifurcated workforce,Books,211.14,143.8,HTT-03292,19.67,356,417,2026-01-14
+715,Streamlined background solution,Health & Beauty,465.5,256.22,CIO-79998,5.2,430,363,2024-05-21
+716,Phased bottom-line projection,Home & Garden,285.37,149.43,SWU-29438,4.86,129,426,2025-01-28
+717,Ergonomic static project,Office Supplies,373.28,230.2,ZBF-77406,10.43,206,286,2025-12-06
+718,Digitized regional secured line,Toys,148.12,50.86,FIN-93706,8.74,324,7,2025-12-13
+719,Phased next generation array,Food & Beverage,378.49,216.94,ZDI-54311,2.66,256,245,2025-09-07
+720,Focused human-resource paradigm,Home & Garden,85.34,59.11,JZG-40860,22.56,496,898,2026-02-07
+721,Ameliorated bottom-line neural-net,Automotive,495.31,301.99,SRW-56681,22.74,379,544,2025-11-09
+722,Stand-alone tangible encoding,Automotive,123.61,62.95,ERE-16753,19.78,401,58,2025-06-26
+723,Multi-lateral non-volatile access,Books,106.27,57.19,TTE-75444,2.07,474,809,2026-01-09
+724,Monitored global array,Food & Beverage,298.33,197.03,VCW-10653,0.97,414,304,2025-07-02
+725,Extended discrete flexibility,Food & Beverage,458.19,248.63,YOV-68579,11.36,94,729,2024-03-03
+726,Stand-alone zero-defect success,Office Supplies,93.31,52.83,IVQ-34012,15.02,209,405,2025-05-02
+727,Open-source upward-trending workforce,Health & Beauty,98.81,31.9,MIO-65177,24.77,44,254,2025-11-23
+728,Object-based next generation benchmark,Health & Beauty,289.04,196.62,XVP-69910,6.9,144,792,2024-10-07
+729,Networked cohesive customer loyalty,Toys,370.93,189.57,AJO-90402,4.02,253,682,2025-03-14
+730,Compatible full-range framework,Health & Beauty,106.41,45.29,GZH-39954,19.67,497,46,2024-07-09
+731,Business-focused stable matrix,Toys,457.31,284.57,QIJ-38676,21.68,291,247,2025-04-28
+732,Ameliorated asymmetric flexibility,Sports,109.82,44.81,EOE-66653,12.9,181,31,2024-08-06
+733,Implemented dedicated time-frame,Electronics,437.51,268.29,GBC-49950,10.57,137,241,2025-03-01
+734,Function-based coherent initiative,Toys,383.12,140.08,CCY-71828,4.14,398,237,2024-10-11
+735,Fully-configurable intangible superstructure,Health & Beauty,490.17,223.92,KQM-41008,14.14,481,885,2026-02-09
+736,Enterprise-wide eco-centric ability,Clothing,116.68,40.32,OPG-02849,11.22,89,824,2024-11-20
+737,Extended local core,Office Supplies,20.07,9.51,HAD-36456,4.97,161,914,2025-05-05
+738,Up-sized didactic website,Office Supplies,20.72,11.72,BOH-42763,21.29,255,225,2025-01-05
+739,Enhanced multi-tasking hierarchy,Home & Garden,335.61,146.51,HMF-28637,6.11,311,637,2025-04-06
+740,Persistent directional monitoring,Automotive,339.77,183.74,VHY-17004,4.81,492,992,2024-04-04
+741,Cloned zero tolerance knowledgebase,Food & Beverage,475.62,329.35,OUM-15678,22.22,427,271,2026-01-16
+742,Virtual fault-tolerant knowledge user,Clothing,383.89,144.73,DTG-49056,24.58,362,184,2025-12-26
+743,Integrated 24/7 algorithm,Food & Beverage,420.16,174.53,GYB-27684,2.29,279,752,2024-04-03
+744,Assimilated composite application,Automotive,427.85,248.65,ETH-70690,24.11,436,791,2025-07-25
+745,Configurable mobile standardization,Toys,405.74,134.23,EPF-34113,13.9,243,70,2025-10-26
+746,Programmable neutral emulation,Home & Garden,109.87,59.08,CLX-59399,2.37,272,869,2024-12-15
+747,Multi-layered asymmetric throughput,Home & Garden,344.98,194.66,YRL-91325,5.52,239,95,2025-07-31
+748,Persevering multi-tasking system engine,Health & Beauty,219.4,76.95,VYU-41519,9.49,453,744,2025-03-23
+749,Adaptive local paradigm,Office Supplies,299.91,93.76,VGF-05559,17.76,454,920,2024-04-12
+750,Multi-layered empowering complexity,Sports,423.98,168.41,YGY-11484,6.33,101,695,2025-04-06
+751,Cross-group real-time knowledge user,Electronics,452.67,243.14,VFM-67069,0.75,390,74,2024-08-11
+752,Devolved context-sensitive hardware,Automotive,485.9,173.14,ZBR-46652,7.04,262,323,2025-12-30
+753,Persistent human-resource protocol,Automotive,290.26,114.27,DKU-62956,8.07,331,914,2024-10-09
+754,Self-enabling heuristic hierarchy,Toys,255.95,81.78,OXZ-83137,10.19,242,9,2025-03-25
+755,Centralized bifurcated matrix,Electronics,64.35,42.34,WWH-43665,10.26,70,419,2024-08-20
+756,Down-sized dedicated extranet,Clothing,89.92,39.96,CCA-65766,17.36,122,588,2024-07-02
+757,Multi-channeled bi-directional solution,Home & Garden,190.36,92.31,MNL-63930,22.6,433,148,2025-09-06
+758,Digitized multimedia benchmark,Health & Beauty,155.06,77.18,YHJ-40903,16.59,6,989,2024-05-11
+759,Reduced intangible implementation,Automotive,336.13,105.63,DSS-38787,21.99,120,672,2025-03-22
+760,Expanded solution-oriented focus group,Sports,189.52,127.06,FEI-57584,20.74,204,614,2025-03-01
+761,Streamlined 5thgeneration alliance,Toys,127.2,87.0,QHZ-17051,21.45,371,59,2025-04-29
+762,Enterprise-wide encompassing application,Books,25.81,11.79,BQH-15065,18.5,359,25,2024-05-06
+763,Face-to-face clear-thinking superstructure,Electronics,390.86,159.88,XIB-33785,5.49,365,330,2025-07-30
+764,Intuitive impactful toolset,Office Supplies,256.95,100.28,EHS-94397,21.23,37,767,2025-09-03
+765,Advanced bandwidth-monitored model,Automotive,404.83,163.22,LIW-42187,6.89,13,856,2024-07-28
+766,Self-enabling responsive Local Area Network,Automotive,131.92,44.34,SCM-93801,21.32,41,622,2024-08-13
+767,Streamlined discrete protocol,Office Supplies,468.42,326.03,LYT-68414,15.16,457,866,2024-08-29
+768,Open-source upward-trending neural-net,Office Supplies,67.53,32.43,NGN-53809,0.83,80,783,2024-09-08
+769,Realigned bifurcated matrix,Clothing,447.87,143.44,NUM-51443,1.62,366,67,2025-08-12
+770,Operative responsive forecast,Books,231.83,131.07,JCZ-70996,24.38,115,609,2024-06-19
+771,Polarized empowering flexibility,Books,378.64,197.38,JLN-57373,13.45,380,973,2024-12-29
+772,Operative regional website,Home & Garden,387.18,129.74,XDM-72257,7.76,350,616,2025-03-25
+773,Persistent neutral leverage,Clothing,344.41,161.99,UGB-62854,20.54,227,62,2025-03-14
+774,Phased foreground Graphic Interface,Office Supplies,430.74,136.83,LIX-09131,22.97,342,295,2025-11-27
+775,Triple-buffered background hub,Office Supplies,7.16,3.14,RTG-34267,2.67,72,989,2024-03-27
+776,Persistent web-enabled orchestration,Clothing,425.23,143.86,WXJ-97586,8.41,10,433,2024-06-15
+777,Realigned mobile installation,Automotive,179.3,59.0,ASY-07012,24.49,170,976,2024-08-30
+778,Right-sized motivating pricing structure,Food & Beverage,356.23,200.24,WOV-36541,22.01,179,581,2024-09-20
+779,Multi-layered modular moderator,Automotive,448.19,134.71,NSS-86910,22.08,28,255,2025-01-26
+780,Object-based systemic function,Toys,95.58,47.34,YRE-52421,7.1,293,637,2025-04-09
+781,Progressive stable orchestration,Clothing,205.82,99.93,OVY-94372,8.92,249,635,2024-07-20
+782,Pre-emptive object-oriented function,Electronics,340.29,235.01,MPL-83075,11.78,1,875,2025-01-15
+783,Virtual transitional strategy,Home & Garden,110.98,63.76,HVN-65248,10.11,350,328,2025-06-23
+784,Customizable transitional array,Health & Beauty,462.63,307.95,MUH-55091,19.18,144,974,2025-09-25
+785,Networked motivating encryption,Food & Beverage,344.71,155.46,TXR-29868,2.27,271,804,2024-09-29
+786,Monitored high-level strategy,Toys,176.68,68.39,QFN-40805,7.6,27,727,2025-11-24
+787,Configurable human-resource approach,Health & Beauty,8.58,2.92,EIZ-85553,5.09,467,636,2024-09-24
+788,Synchronized tertiary complexity,Sports,227.14,136.36,NVZ-53330,1.84,221,533,2024-12-27
+789,Proactive impactful intranet,Sports,496.47,165.42,SBM-82677,5.73,86,568,2024-05-03
+790,Balanced dedicated forecast,Automotive,352.63,169.4,EVM-51333,14.82,435,614,2025-08-22
+791,Function-based bottom-line interface,Office Supplies,391.16,164.74,ISV-98571,12.73,86,647,2024-05-19
+792,Realigned asynchronous projection,Sports,143.1,55.48,SQB-87606,0.53,39,281,2024-08-31
+793,Realigned web-enabled array,Clothing,279.49,101.71,BXZ-44959,9.12,217,347,2025-07-14
+794,Profound systematic application,Sports,74.59,31.2,JKG-17424,21.28,58,113,2024-11-11
+795,Pre-emptive clear-thinking concept,Office Supplies,360.89,231.61,QGV-74605,15.6,77,533,2025-05-27
+796,Devolved multi-tasking conglomeration,Health & Beauty,99.25,42.07,TRX-02873,3.23,191,897,2025-08-05
+797,Cross-platform neutral function,Sports,365.69,210.08,LMX-21978,17.35,59,661,2026-02-22
+798,Streamlined intangible core,Health & Beauty,361.88,236.05,ESK-20591,7.62,396,597,2024-12-25
+799,Ameliorated intangible database,Electronics,86.42,44.13,FWE-27687,10.37,21,866,2024-11-24
+800,Inverse encompassing parallelism,Food & Beverage,52.61,26.07,CSO-35791,17.37,203,443,2026-01-16
+801,Progressive tangible core,Office Supplies,49.66,24.61,XMB-10193,5.85,429,32,2025-03-26
+802,Optional 24/7 standardization,Automotive,82.33,25.7,DXT-51250,0.93,307,578,2026-02-07
+803,Inverse static ability,Automotive,161.22,63.74,ZCT-24281,19.62,360,600,2024-12-15
+804,Visionary full-range throughput,Sports,338.18,209.55,XJF-27595,19.61,338,916,2025-05-25
+805,Total fault-tolerant interface,Toys,310.76,123.1,UMA-63863,0.75,121,363,2026-02-14
+806,De-engineered neutral Local Area Network,Office Supplies,217.5,84.56,ZAP-12712,13.17,349,564,2025-06-11
+807,User-centric explicit initiative,Toys,52.36,34.71,ZUB-80336,14.68,28,678,2025-02-13
+808,Assimilated national ability,Electronics,24.99,12.5,DZO-58520,13.57,259,445,2025-09-22
+809,Compatible bandwidth-monitored portal,Toys,183.22,87.27,DLK-93525,11.59,273,723,2024-07-20
+810,Switchable composite throughput,Automotive,450.91,237.29,ZLG-18193,19.77,395,516,2024-04-23
+811,Fully-configurable upward-trending product,Electronics,196.82,64.88,JEO-22654,14.58,287,145,2024-10-26
+812,Front-line scalable moderator,Toys,471.39,248.26,WLT-16972,17.46,143,846,2025-10-12
+813,Inverse demand-driven conglomeration,Health & Beauty,329.16,132.29,TJX-41683,23.1,0,45,2025-04-15
+814,Virtual hybrid customer loyalty,Health & Beauty,109.67,35.17,JHG-16778,16.35,115,711,2026-01-26
+815,Re-contextualized methodical core,Home & Garden,148.62,46.43,DTE-28097,0.87,173,944,2024-11-08
+816,Multi-channeled upward-trending info-mediaries,Toys,284.35,190.08,IGO-24462,17.64,262,250,2025-06-06
+817,Synergistic well-modulated info-mediaries,Books,311.0,200.16,FAD-68256,23.62,451,258,2025-01-11
+818,Business-focused asynchronous leverage,Sports,363.69,167.55,BEC-57710,17.62,232,612,2024-12-12
+819,User-friendly transitional hardware,Toys,454.99,181.13,PBU-30862,18.98,92,477,2024-10-31
+820,Triple-buffered multimedia support,Home & Garden,106.72,66.68,JIV-46805,5.03,5,222,2026-02-10
+821,Cloned client-server toolset,Office Supplies,98.12,66.87,DMX-28757,2.62,150,887,2024-04-21
+822,Self-enabling client-driven middleware,Electronics,69.9,46.43,TMW-17588,5.18,170,789,2025-12-07
+823,Optimized multi-state migration,Books,129.42,88.86,QFO-18168,9.37,5,688,2025-10-14
+824,Universal bifurcated intranet,Home & Garden,126.7,39.86,ULP-86025,12.63,376,659,2024-04-13
+825,Multi-lateral bi-directional Graphic Interface,Books,268.81,93.68,QLD-78094,2.82,424,473,2025-01-25
+826,Grass-roots responsive throughput,Books,446.48,297.13,KNH-57286,11.7,444,479,2025-10-18
+827,Managed bandwidth-monitored monitoring,Sports,65.79,45.93,MAF-97125,19.12,57,320,2026-01-24
+828,Balanced multi-state function,Food & Beverage,116.38,46.3,BXB-28048,15.07,288,400,2025-03-21
+829,Down-sized systematic complexity,Home & Garden,478.47,268.13,HSG-53687,6.71,439,526,2025-01-27
+830,Persevering tertiary open system,Home & Garden,351.01,167.18,UCB-50400,10.28,353,234,2024-05-14
+831,Decentralized actuating throughput,Home & Garden,350.32,239.33,FTR-85994,21.96,266,332,2025-12-05
+832,Team-oriented motivating policy,Home & Garden,59.9,37.91,TEO-84984,9.62,176,403,2024-09-17
+833,Polarized systemic strategy,Health & Beauty,361.88,180.1,XMZ-04125,24.76,326,65,2025-04-12
+834,Optional global emulation,Health & Beauty,292.72,144.69,NER-94197,4.22,244,321,2024-06-05
+835,Assimilated coherent focus group,Home & Garden,400.52,181.62,BWO-13977,24.39,170,300,2025-06-15
+836,Pre-emptive coherent initiative,Food & Beverage,245.17,123.58,LNS-18656,5.36,255,599,2024-06-17
+837,Assimilated systematic superstructure,Health & Beauty,439.2,263.49,LUY-51595,6.36,317,437,2025-04-27
+838,Devolved contextually-based methodology,Office Supplies,67.16,39.84,RGF-24144,11.19,47,483,2025-12-26
+839,Re-engineered impactful system engine,Automotive,400.89,159.83,QGH-48373,0.95,121,697,2025-01-23
+840,Operative maximized matrices,Electronics,193.32,67.58,ELY-02513,14.95,1,872,2025-08-13
+841,Operative regional orchestration,Home & Garden,202.08,106.59,MTI-76425,1.84,313,331,2025-11-17
+842,Open-source empowering open architecture,Clothing,436.31,207.42,XMT-26236,19.5,415,131,2024-07-30
+843,Multi-lateral context-sensitive firmware,Food & Beverage,132.05,46.16,NLA-57709,22.17,192,872,2024-04-05
+844,Team-oriented tangible workforce,Health & Beauty,252.99,113.39,JOM-09419,24.89,220,60,2025-09-17
+845,Upgradable composite intranet,Home & Garden,79.74,50.57,FFR-67146,11.07,477,218,2025-05-22
+846,Enhanced didactic core,Health & Beauty,123.62,74.6,QTH-30408,9.22,354,21,2024-10-09
+847,Diverse even-keeled adapter,Health & Beauty,154.0,60.76,XVI-77332,16.84,34,192,2024-11-13
+848,Optimized reciprocal benchmark,Toys,496.63,277.17,QFG-37461,16.54,7,426,2026-01-13
+849,Multi-tiered real-time monitoring,Office Supplies,364.6,128.19,NOB-12197,15.03,413,560,2025-02-11
+850,Polarized optimizing pricing structure,Clothing,220.04,147.38,EVK-77643,15.96,54,412,2025-04-14
+851,Face-to-face solution-oriented system engine,Sports,321.69,210.45,YIB-49615,8.6,176,838,2025-10-28
+852,Persevering analyzing conglomeration,Home & Garden,471.82,278.41,AOT-48921,16.17,229,321,2025-12-10
+853,Robust user-facing architecture,Electronics,437.83,283.33,LBQ-56242,7.91,352,239,2024-08-02
+854,Streamlined system-worthy attitude,Electronics,111.2,71.47,GOG-50395,20.14,192,361,2024-11-21
+855,Inverse object-oriented core,Automotive,30.11,16.91,MVV-51660,0.62,56,722,2024-10-02
+856,Multi-lateral value-added forecast,Sports,485.46,155.22,YBC-47160,10.58,104,459,2024-03-31
+857,Streamlined bandwidth-monitored forecast,Home & Garden,469.07,234.82,UQK-76047,4.57,335,915,2025-07-19
+858,Face-to-face static success,Books,356.16,174.89,BLG-95931,7.46,243,787,2024-11-09
+859,Team-oriented content-based structure,Home & Garden,491.48,317.42,MZW-13656,19.99,37,43,2024-04-26
+860,Distributed intermediate Graphical User Interface,Food & Beverage,267.3,83.41,KOR-22999,11.72,31,535,2024-05-04
+861,Programmable zero tolerance firmware,Electronics,139.26,93.76,HPM-94972,1.84,433,263,2025-09-09
+862,Multi-tiered multi-state groupware,Electronics,329.34,206.01,ZTO-05384,14.82,396,951,2024-05-18
+863,Diverse user-facing conglomeration,Electronics,18.67,11.46,AWE-79723,6.3,234,674,2024-03-05
+864,Down-sized holistic open system,Electronics,393.32,148.53,YXH-00303,14.24,5,817,2025-02-04
+865,Assimilated multi-state migration,Food & Beverage,251.19,149.28,WLI-49038,13.97,167,513,2024-08-12
+866,User-centric disintermediate moderator,Clothing,459.51,145.62,BNJ-51534,22.71,178,755,2024-03-10
+867,Upgradable encompassing parallelism,Electronics,163.24,84.33,GCO-76929,18.72,187,486,2024-12-12
+868,Function-based bottom-line focus group,Office Supplies,133.2,68.22,SYJ-32525,20.2,496,208,2026-01-20
+869,Realigned encompassing ability,Clothing,259.94,94.37,ZRB-93155,15.91,412,959,2026-02-10
+870,Exclusive intangible initiative,Health & Beauty,49.74,18.28,KNK-40442,19.48,106,655,2025-03-13
+871,Devolved homogeneous Internet solution,Food & Beverage,417.88,246.66,WEI-34569,7.34,356,458,2025-03-17
+872,Front-line responsive middleware,Sports,161.7,78.58,XGX-42978,16.73,345,438,2025-06-30
+873,Extended asynchronous initiative,Sports,241.37,95.8,XHY-20851,0.64,71,861,2024-03-23
+874,Object-based foreground help-desk,Health & Beauty,38.44,25.06,JOA-60149,3.71,10,792,2025-02-08
+875,Face-to-face user-facing middleware,Clothing,472.37,188.98,RDQ-58325,11.69,481,176,2024-04-06
+876,Managed non-volatile capacity,Clothing,50.27,24.98,CZG-98731,18.78,96,805,2025-09-30
+877,Innovative bi-directional budgetary management,Food & Beverage,394.84,159.91,YGF-11299,21.27,348,262,2024-11-17
+878,Vision-oriented logistical middleware,Clothing,176.0,64.77,NNZ-57516,6.08,142,543,2024-11-16
+879,Balanced asynchronous approach,Books,41.22,22.04,PGB-54939,21.22,3,973,2024-05-22
+880,Multi-layered static capability,Electronics,163.02,87.75,OOS-06926,14.84,424,264,2025-02-18
+881,Mandatory real-time application,Health & Beauty,268.31,142.12,TUZ-78973,18.3,50,859,2025-05-08
+882,Universal tangible support,Sports,136.87,81.95,QBZ-61187,3.1,388,442,2024-04-12
+883,Programmable disintermediate projection,Sports,91.32,55.3,TUT-78329,1.04,423,444,2025-09-26
+884,Polarized incremental challenge,Toys,13.89,7.71,VZV-76506,16.18,43,227,2025-02-13
+885,Innovative zero-defect hierarchy,Office Supplies,342.5,226.35,BIF-33810,20.94,79,52,2025-05-25
+886,Streamlined secondary Graphical User Interface,Office Supplies,365.14,172.23,TXE-71720,9.27,250,897,2026-01-15
+887,Implemented contextually-based moratorium,Electronics,189.91,98.83,PKT-81986,20.38,418,677,2024-04-12
+888,Cloned explicit productivity,Electronics,347.15,149.62,KZA-76279,5.3,228,70,2024-05-10
+889,Networked 24/7 initiative,Health & Beauty,126.7,66.03,YMK-61158,5.71,462,999,2026-02-25
+890,Universal optimal ability,Books,377.83,163.45,GMB-30705,3.14,104,585,2026-02-09
+891,Compatible well-modulated neural-net,Health & Beauty,125.44,45.53,HHU-52973,10.97,322,120,2026-01-04
+892,Re-contextualized human-resource approach,Toys,293.71,156.74,YNE-75608,6.85,10,37,2025-10-24
+893,Cloned disintermediate synergy,Clothing,293.81,127.15,URW-89551,20.99,397,744,2024-06-27
+894,Self-enabling actuating workforce,Office Supplies,117.77,42.33,DNM-17592,21.63,350,191,2025-05-22
+895,Pre-emptive 6thgeneration frame,Sports,43.22,27.0,KNP-55626,6.08,88,653,2024-12-31
+896,Front-line national standardization,Toys,13.69,5.17,WEO-79090,4.43,213,742,2025-04-23
+897,Organic needs-based knowledgebase,Health & Beauty,301.2,96.62,JBX-63318,15.86,273,51,2024-03-23
+898,Secured secondary time-frame,Sports,171.67,63.26,WLH-78176,4.41,179,499,2025-05-08
+899,Persistent hybrid groupware,Books,28.02,18.33,ZCX-90373,15.42,13,29,2024-07-23
+900,Progressive 4thgeneration toolset,Clothing,479.64,240.19,BWF-05898,23.33,445,555,2026-01-06
+901,Configurable context-sensitive project,Sports,378.4,206.68,YHV-40835,9.85,386,453,2024-09-07
+902,Profit-focused executive middleware,Clothing,71.66,24.44,KYN-17182,1.84,210,792,2025-05-07
+903,Multi-tiered bottom-line array,Sports,47.7,25.64,FST-10270,21.64,387,790,2024-03-05
+904,Compatible heuristic approach,Clothing,490.27,288.3,SSO-90714,21.77,120,319,2024-06-17
+905,Triple-buffered mission-critical functionalities,Books,266.91,87.97,IZL-54566,13.67,181,563,2024-11-08
+906,Progressive zero-defect time-frame,Home & Garden,416.81,164.28,EZM-61953,16.05,165,371,2024-12-14
+907,Focused incremental pricing structure,Clothing,96.92,65.97,QIO-11186,0.37,133,376,2025-06-17
+908,Re-contextualized hybrid core,Home & Garden,60.24,41.28,SFL-28185,17.04,96,644,2025-12-12
+909,Intuitive 4thgeneration algorithm,Food & Beverage,218.95,153.16,FAN-57752,20.21,95,334,2026-01-28
+910,Automated hybrid frame,Automotive,52.33,36.12,MYC-87488,3.82,194,916,2024-08-15
+911,Up-sized 3rdgeneration project,Clothing,132.79,53.64,TOY-27870,12.89,2,506,2024-11-18
+912,Proactive value-added flexibility,Office Supplies,117.38,61.36,EGE-49340,21.35,26,639,2025-02-24
+913,Pre-emptive tertiary success,Health & Beauty,279.75,165.52,IPT-57680,24.44,402,760,2025-04-09
+914,Grass-roots systemic synergy,Office Supplies,32.51,10.28,RXZ-16840,3.38,336,714,2024-12-05
+915,Extended 3rdgeneration productivity,Books,26.85,10.77,EEW-99744,13.53,315,605,2026-01-27
+916,Triple-buffered executive benchmark,Toys,461.14,190.41,PBX-47658,14.33,201,622,2024-06-07
+917,Programmable regional benchmark,Home & Garden,57.02,28.03,ATN-22332,17.06,83,322,2025-10-28
+918,Reverse-engineered fault-tolerant firmware,Office Supplies,401.79,257.57,IXL-17285,16.7,437,227,2025-06-11
+919,Profound full-range ability,Electronics,96.39,42.37,RQB-82873,19.15,23,736,2025-03-02
+920,Object-based solution-oriented info-mediaries,Food & Beverage,331.78,118.31,OOJ-40580,9.46,170,229,2025-06-04
+921,Reduced didactic throughput,Health & Beauty,48.54,19.88,TVB-27618,4.76,448,689,2024-04-07
+922,Programmable bandwidth-monitored monitoring,Clothing,68.43,37.67,ENY-01497,22.46,149,94,2024-04-06
+923,Synchronized user-facing complexity,Sports,419.94,206.03,NJH-69497,5.5,456,229,2025-02-10
+924,Digitized non-volatile info-mediaries,Clothing,388.88,117.88,TYC-99106,16.66,337,153,2025-04-08
+925,Customizable exuding task-force,Electronics,218.55,106.2,UVA-24987,18.33,304,842,2025-08-08
+926,Open-architected system-worthy initiative,Home & Garden,81.9,55.61,CCJ-87284,18.35,102,205,2024-07-21
+927,Versatile heuristic system engine,Office Supplies,95.98,61.78,MMU-42015,1.19,485,715,2025-02-01
+928,Phased neutral intranet,Home & Garden,474.3,212.64,AXW-73149,9.81,130,735,2024-04-21
+929,Team-oriented mobile service-desk,Health & Beauty,38.62,18.57,NMR-02658,10.63,227,666,2024-11-17
+930,Cross-platform multimedia contingency,Automotive,484.58,197.11,UDZ-92480,15.1,37,175,2026-02-25
+931,Automated upward-trending Local Area Network,Food & Beverage,26.63,13.08,HQX-33707,12.15,267,563,2024-05-13
+932,Robust value-added time-frame,Electronics,262.68,104.98,YKD-95660,20.61,208,526,2024-11-10
+933,Team-oriented global installation,Sports,259.49,169.33,WDC-73090,8.91,304,790,2026-01-10
+934,Extended composite adapter,Home & Garden,296.69,177.65,MCC-97952,15.53,12,450,2025-12-18
+935,Enterprise-wide 5thgeneration throughput,Health & Beauty,406.44,236.95,KJW-02340,18.29,1,822,2025-02-09
+936,Ergonomic methodical productivity,Office Supplies,493.71,199.4,WWM-42370,8.82,6,821,2024-06-29
+937,Virtual dedicated superstructure,Sports,415.09,172.7,CVQ-09635,8.1,219,676,2026-02-15
+938,User-friendly maximized Internet solution,Office Supplies,269.11,135.52,JWY-51018,5.65,484,474,2025-12-20
+939,Multi-lateral incremental instruction set,Toys,47.43,22.08,BGT-65090,12.52,396,992,2024-06-25
+940,Extended fault-tolerant algorithm,Food & Beverage,332.28,188.4,RAS-76213,21.8,293,281,2024-07-05
+941,Open-source 3rdgeneration core,Electronics,471.55,203.57,PWI-70747,14.91,442,988,2024-05-21
+942,Optimized optimal budgetary management,Books,190.88,124.57,BGI-63814,24.19,4,151,2024-06-30
+943,Grass-roots value-added adapter,Sports,402.13,130.27,GLG-14280,11.21,164,358,2024-11-03
+944,Universal didactic application,Sports,319.24,120.63,LDD-24748,8.22,356,58,2025-12-28
+945,Persistent disintermediate initiative,Health & Beauty,480.94,308.74,DNM-27540,11.54,500,66,2024-03-14
+946,Networked national service-desk,Sports,116.7,35.78,OYJ-02045,1.82,46,341,2025-03-25
+947,Secured asymmetric monitoring,Home & Garden,330.98,190.25,OFI-28467,3.06,450,407,2025-05-29
+948,Cross-platform background adapter,Books,200.38,133.44,PZC-86166,17.64,156,15,2025-08-22
+949,Multi-tiered executive Local Area Network,Books,403.8,234.01,EYX-55427,4.05,235,846,2026-01-16
+950,Customer-focused interactive utilization,Books,141.12,92.3,TQV-64328,9.52,5,588,2025-08-18
+951,Progressive hybrid access,Toys,240.67,74.93,HKT-60097,12.12,180,118,2025-10-26
+952,Versatile system-worthy intranet,Home & Garden,186.18,106.25,JDW-31667,2.75,183,215,2025-07-29
+953,Visionary incremental core,Books,9.42,5.18,MGZ-31573,18.94,109,623,2024-09-08
+954,Re-contextualized real-time model,Home & Garden,372.62,114.75,PBR-61755,4.78,270,225,2025-09-01
+955,Exclusive systemic application,Home & Garden,362.39,219.44,FTX-71683,5.76,437,972,2024-06-11
+956,Persevering real-time function,Food & Beverage,180.84,88.32,JMI-20747,6.07,292,886,2025-09-24
+957,Profit-focused full-range leverage,Electronics,363.09,201.53,FMH-22219,9.86,247,696,2025-01-06
+958,Profound foreground support,Sports,331.5,99.88,FPL-06157,22.81,202,577,2025-08-29
+959,Optimized asymmetric database,Clothing,67.35,37.28,DXK-24489,14.84,171,342,2024-08-20
+960,Persevering asymmetric data-warehouse,Health & Beauty,274.95,162.05,NWM-88763,0.99,493,674,2024-03-28
+961,User-friendly dynamic ability,Books,191.93,131.06,QQY-28158,5.91,100,174,2025-10-01
+962,Object-based holistic migration,Toys,261.71,152.86,ATL-66662,1.72,71,831,2025-07-06
+963,Programmable 5thgeneration knowledgebase,Clothing,156.21,58.68,QGA-83548,2.26,0,906,2024-04-16
+964,Secured modular instruction set,Books,462.2,154.86,IRK-33890,0.9,500,709,2024-05-21
+965,Horizontal tangible portal,Food & Beverage,497.88,283.3,HCE-51974,9.09,380,791,2026-01-21
+966,Balanced background infrastructure,Electronics,139.02,57.32,XNE-42172,12.0,114,472,2025-11-18
+967,Customer-focused scalable implementation,Electronics,192.14,66.18,UEZ-15262,9.46,256,720,2026-01-06
+968,Realigned scalable extranet,Toys,346.08,141.45,DNA-40626,18.22,222,748,2025-04-01
+969,Seamless fault-tolerant synergy,Electronics,241.34,109.52,SJF-07386,14.42,153,20,2024-10-22
+970,Versatile real-time flexibility,Health & Beauty,129.45,60.82,CUZ-83645,16.01,163,555,2024-11-20
+971,Synergistic needs-based ability,Clothing,79.44,35.8,ZKU-70840,8.54,233,826,2025-04-24
+972,Open-source intangible task-force,Home & Garden,96.02,52.38,IHV-74302,24.36,202,651,2024-05-17
+973,Profit-focused heuristic capacity,Office Supplies,282.84,190.12,MEE-51167,1.4,41,837,2025-08-15
+974,Configurable non-volatile knowledgebase,Office Supplies,116.7,44.25,KIK-10176,14.19,86,781,2025-06-03
+975,Realigned responsive time-frame,Health & Beauty,473.02,232.42,KAB-90952,17.69,26,699,2024-07-10
+976,Vision-oriented system-worthy model,Health & Beauty,375.19,223.41,FUQ-69667,22.4,212,375,2024-05-20
+977,Streamlined dynamic contingency,Electronics,128.35,50.48,MDZ-15843,0.37,319,100,2024-11-15
+978,Advanced actuating challenge,Automotive,472.83,190.29,VWV-21336,8.56,250,235,2024-12-19
+979,Stand-alone systematic leverage,Home & Garden,261.75,117.5,VRQ-29759,4.92,445,370,2024-07-02
+980,Automated bandwidth-monitored intranet,Automotive,252.76,121.67,BNT-54419,2.95,111,856,2025-06-11
+981,Expanded analyzing utilization,Automotive,148.86,64.46,KJF-28364,18.81,28,525,2025-08-27
+982,Integrated homogeneous matrices,Office Supplies,280.29,106.34,RAZ-59290,16.62,193,590,2024-03-21
+983,Multi-channeled heuristic access,Toys,342.67,152.98,UWP-64114,15.33,64,569,2025-10-27
+984,Automated bifurcated task-force,Home & Garden,91.02,52.39,WPL-43136,2.29,16,485,2024-07-16
+985,Open-source multi-tasking portal,Home & Garden,499.1,175.45,EZJ-62020,15.73,213,717,2025-01-30
+986,Cloned eco-centric Internet solution,Clothing,190.05,109.73,ESO-87906,12.33,88,888,2024-07-01
+987,Open-architected local success,Electronics,202.86,103.75,SQS-14979,22.17,144,166,2025-07-10
+988,Polarized contextually-based groupware,Home & Garden,210.87,134.72,QYL-18739,14.34,386,867,2025-03-06
+989,Profound directional workforce,Clothing,200.57,138.7,CAU-06571,0.14,337,166,2025-08-08
+990,Monitored upward-trending productivity,Automotive,462.3,272.66,UWZ-53013,14.23,246,425,2024-06-17
+991,Public-key asymmetric flexibility,Toys,186.01,62.16,SQV-08044,19.97,173,456,2024-06-08
+992,Versatile leadingedge standardization,Automotive,338.46,103.32,GGU-08917,11.95,255,220,2025-05-30
+993,Horizontal attitude-oriented system engine,Toys,133.71,85.78,SLZ-48773,8.4,214,502,2025-09-12
+994,Distributed multi-tasking circuit,Clothing,436.28,262.46,WAV-88545,24.76,9,756,2025-12-23
+995,Function-based exuding hub,Health & Beauty,472.81,204.23,FLQ-84308,15.94,315,384,2024-04-21
+996,Visionary demand-driven intranet,Toys,114.64,61.83,TRG-76777,24.4,124,79,2025-01-16
+997,Extended background budgetary management,Food & Beverage,230.94,105.23,BPG-50589,5.52,179,224,2024-09-05
+998,Reverse-engineered composite infrastructure,Food & Beverage,130.02,40.37,TKC-89100,16.31,214,206,2026-01-21
+999,Persistent encompassing time-frame,Automotive,152.75,62.38,INP-12521,24.52,327,359,2024-05-09
+1000,Switchable exuding ability,Toys,149.41,54.24,DKJ-16783,15.03,208,312,2024-04-01

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "data-gen"
+version = "0.1.0"
+description = "Fake data generator for DATA430"
+authors = ["prabasiva"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+faker = "^40.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
