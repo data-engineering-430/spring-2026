@@ -1,0 +1,10 @@
+docs/
+logs/
+nifi_conf/
+nifi_state/
+nifi_db/
+nifi_content/
+nifi_provenance/
+*.pyc
+__pycache__/
+.env
